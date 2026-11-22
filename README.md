@@ -64,7 +64,7 @@ Bank codes are NIP codes (`000014` Access, `000013` GTBank) â€” not CBN codes â€
 5. `npm run validate`
 6. Commit, tag a release (`git tag v1` / `v1.1`), push tag.
 
-`npm run validate` also runs in CI and fails on missing files, orphans, oversize files and duplicate keys.
+`npm run validate` fails on missing files, orphans, oversize files and duplicate keys. A ready-to-use GitHub Actions workflow lives in `ci/validate.yml`; move it to `.github/workflows/` once the push token has the `workflow` scope.
 
 ## Content sources
 
