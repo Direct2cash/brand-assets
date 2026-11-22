@@ -1,0 +1,77 @@
+[
+ {
+  "symbol": "BTC",
+  "name": "Bitcoin",
+  "file": "coins/btc.png"
+ },
+ {
+  "symbol": "ETH",
+  "name": "Ethereum",
+  "file": "coins/eth.png"
+ },
+ {
+  "symbol": "AVAX",
+  "name": "Avalanche",
+  "file": "coins/avax.png"
+ },
+ {
+  "symbol": "USDT",
+  "name": "USDT",
+  "file": "coins/usdt.png"
+ },
+ {
+  "symbol": "USDC",
+  "name": "USDC",
+  "file": "coins/usdc.png"
+ },
+ {
+  "symbol": "NGN",
+  "name": "Naira",
+  "file": "coins/ngn.png"
+ },
+ {
+  "symbol": "USD",
+  "name": "US Dollar",
+  "file": "coins/usd.png"
+ },
+ {
+  "symbol": "BNB",
+  "name": "Binance Token",
+  "file": "coins/bnb.png"
+ },
+ {
+  "symbol": "MATIC",
+  "name": "Matic",
+  "file": "coins/matic.png"
+ },
+ {
+  "symbol": "TRON",
+  "name": "Tron",
+  "file": "coins/tron.png"
+ },
+ {
+  "symbol": "CFX",
+  "name": "conflux",
+  "file": "coins/cfx.png"
+ },
+ {
+  "symbol": "SOL",
+  "name": "solana",
+  "file": "coins/sol.png"
+ },
+ {
+  "symbol": "TON",
+  "name": "ton",
+  "file": "coins/ton.png"
+ },
+ {
+  "symbol": "DOGE",
+  "name": "dogecoin",
+  "file": "coins/doge.png"
+ },
+ {
+  "symbol": "ADA",
+  "name": "cardano",
+  "file": "coins/ada.png"
+ }
+]

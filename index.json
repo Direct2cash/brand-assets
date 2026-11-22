@@ -1,0 +1,1058 @@
+{
+ "version": 1,
+ "generatedAt": "2026-11-22T12:21:31.928Z",
+ "namespaces": {
+  "banks": "banks/ng",
+  "bills": "bills",
+  "coins": "coins"
+ },
+ "banks": {
+  "910": {
+   "name": "First Trust Mortgage Bank Plc",
+   "path": "banks/ng/910.png"
+  },
+  "929": {
+   "name": "Chams Mobile",
+   "path": "banks/ng/929.png"
+  },
+  "90486": {
+   "name": "Fortress MICROFINANCE BANK",
+   "path": "banks/ng/90486.png"
+  },
+  "90574": {
+   "name": "GOLDMAN MICROFINANCE BANK",
+   "path": "banks/ng/90574.png"
+  },
+  "90697": {
+   "name": "IBBU MICROFINANCE BANK",
+   "path": "banks/ng/90697.png"
+  },
+  "90763": {
+   "name": "MINT MICROFINANCE BANK",
+   "path": "banks/ng/90763.png"
+  },
+  "90774": {
+   "name": "BWAY MICROFINANCE BANK",
+   "path": "banks/ng/90774.png"
+  },
+  "90806": {
+   "name": "SPRINGFIELD MICROFINANCE BANK",
+   "path": "banks/ng/90806.png"
+  },
+  "100002": {
+   "name": "PAGA",
+   "path": "banks/ng/100002.png"
+  },
+  "100003": {
+   "name": "ParkWay-ReadyCash",
+   "path": "banks/ng/100003.png"
+  },
+  "100004": {
+   "name": "Opay",
+   "path": "banks/ng/100004.png"
+  },
+  "100009": {
+   "name": "GTBank Mobile Money",
+   "path": "banks/ng/100009.png"
+  },
+  "100013": {
+   "name": "Access Money",
+   "path": "banks/ng/100013.png"
+  },
+  "100022": {
+   "name": "GoMoney",
+   "path": "banks/ng/100022.png"
+  },
+  "100024": {
+   "name": "Imperial Homes Mortgage Bank",
+   "path": "banks/ng/100024.png"
+  },
+  "100026": {
+   "name": "Carbon (One Finance)",
+   "path": "banks/ng/100026.png"
+  },
+  "100028": {
+   "name": "AG Mortgage Bank",
+   "path": "banks/ng/100028.png"
+  },
+  "100033": {
+   "name": "PALMPAY",
+   "path": "banks/ng/100033.png"
+  },
+  "100040": {
+   "name": "XPRESS WALLET",
+   "path": "banks/ng/100040.png"
+  },
+  "100042": {
+   "name": "Pocket App",
+   "path": "banks/ng/100042.png"
+  },
+  "100052": {
+   "name": "Access Yello & Beta",
+   "path": "banks/ng/100052.png"
+  },
+  "110072": {
+   "name": "78 FINANCE COMPANY",
+   "path": "banks/ng/110072.png"
+  },
+  "120001": {
+   "name": "9 Payment Service Bank",
+   "path": "banks/ng/120001.png"
+  },
+  "120002": {
+   "name": "HopePSB",
+   "path": "banks/ng/120002.png"
+  },
+  "120003": {
+   "name": "Momo PSB",
+   "path": "banks/ng/120003.png"
+  },
+  "400001": {
+   "name": "FSDH Merchant Bank",
+   "path": "banks/ng/400001.png"
+  },
+  "090832": {
+   "name": "5TT MFB",
+   "path": "banks/ng/090832.png"
+  },
+  "090629": {
+   "name": "9japay Microfinance Bank",
+   "path": "banks/ng/090629.png"
+  },
+  "070010": {
+   "name": "Abbey Mortgage Bank",
+   "path": "banks/ng/070010.png"
+  },
+  "090260": {
+   "name": "Above Only Microfinance Bank",
+   "path": "banks/ng/090260.png"
+  },
+  "000014": {
+   "name": "Access Bank Nigeria",
+   "path": "banks/ng/000014.png"
+  },
+  "000005": {
+   "name": "Access Bank Plc (Diamond)",
+   "path": "banks/ng/000005.png"
+  },
+  "090134": {
+   "name": "Accion Microfinance Bank",
+   "path": "banks/ng/090134.png"
+  },
+  "070030": {
+   "name": "Adamawa Mortgage Bank",
+   "path": "banks/ng/070030.png"
+  },
+  "090759": {
+   "name": "ADVANCLY MICROFINANCE BANK",
+   "path": "banks/ng/090759.png"
+  },
+  "090614": {
+   "name": "Aella Microfinance Bank",
+   "path": "banks/ng/090614.png"
+  },
+  "090531": {
+   "name": "AKU MICROFINANCE BANK",
+   "path": "banks/ng/090531.png"
+  },
+  "090133": {
+   "name": "AL-Barakah Microfinance Bank",
+   "path": "banks/ng/090133.png"
+  },
+  "090297": {
+   "name": "Alert MFB",
+   "path": "banks/ng/090297.png"
+  },
+  "090131": {
+   "name": "Allworkers Microfinance Bank",
+   "path": "banks/ng/090131.png"
+  },
+  "000041": {
+   "name": "Alpha Morgan Bank",
+   "path": "banks/ng/000041.png"
+  },
+  "000037": {
+   "name": "Alternative Bank Limited",
+   "path": "banks/ng/000037.png"
+  },
+  "090180": {
+   "name": "AMJU Unique Microfinance Bank",
+   "path": "banks/ng/090180.png"
+  },
+  "090001": {
+   "name": "Aso Savings and Loans",
+   "path": "banks/ng/090001.png"
+  },
+  "090172": {
+   "name": "Astrapolaris Microfinance Bank",
+   "path": "banks/ng/090172.png"
+  },
+  "090478": {
+   "name": "AVUENEGBE MICROFINANCE BANK",
+   "path": "banks/ng/090478.png"
+  },
+  "090367": {
+   "name": "Bank of Agriculture",
+   "path": "banks/ng/090367.png"
+  },
+  "090866": {
+   "name": "BANK78 MFB",
+   "path": "banks/ng/090866.png"
+  },
+  "090529": {
+   "name": "BANKLY Microfinance Bank",
+   "path": "banks/ng/090529.png"
+  },
+  "090127": {
+   "name": "BC Kash Microfinance Bank",
+   "path": "banks/ng/090127.png"
+  },
+  "090672": {
+   "name": "BellBank MFB",
+   "path": "banks/ng/090672.png"
+  },
+  "090413": {
+   "name": "Benysta Microfinance Bank",
+   "path": "banks/ng/090413.png"
+  },
+  "090618": {
+   "name": "BERACHAH MICROFINANCE BANK",
+   "path": "banks/ng/090618.png"
+  },
+  "090615": {
+   "name": "Beststar Microfinance Bank",
+   "path": "banks/ng/090615.png"
+  },
+  "090977": {
+   "name": "BLOC MFB",
+   "path": "banks/ng/090977.png"
+  },
+  "090753": {
+   "name": "Bold MFB",
+   "path": "banks/ng/090753.png"
+  },
+  "090176": {
+   "name": "Bosak Microfinance Bank",
+   "path": "banks/ng/090176.png"
+  },
+  "090148": {
+   "name": "Bowen Microfinance Bank",
+   "path": "banks/ng/090148.png"
+  },
+  "050006": {
+   "name": "Branch International Financial Services",
+   "path": "banks/ng/050006.png"
+  },
+  "070015": {
+   "name": "Brent Mortgage Bank",
+   "path": "banks/ng/070015.png"
+  },
+  "090682": {
+   "name": "BUYPOWER MICROFINANCE BANK",
+   "path": "banks/ng/090682.png"
+  },
+  "090360": {
+   "name": "Cashconnect Microfinance Bank",
+   "path": "banks/ng/090360.png"
+  },
+  "090851": {
+   "name": "CEDRUS MFB",
+   "path": "banks/ng/090851.png"
+  },
+  "090154": {
+   "name": "CEMCS Microfinance Bank",
+   "path": "banks/ng/090154.png"
+  },
+  "090141": {
+   "name": "Chikum Microfinance Bank",
+   "path": "banks/ng/090141.png"
+  },
+  "000009": {
+   "name": "Citi Bank",
+   "path": "banks/ng/000009.png"
+  },
+  "090130": {
+   "name": "Consumer Microfinance Bank",
+   "path": "banks/ng/090130.png"
+  },
+  "090842": {
+   "name": "COOL MFB",
+   "path": "banks/ng/090842.png"
+  },
+  "090365": {
+   "name": "Corestep Microfinance Bank",
+   "path": "banks/ng/090365.png"
+  },
+  "060001": {
+   "name": "Coronation Merchant Bank",
+   "path": "banks/ng/060001.png"
+  },
+  "050001": {
+   "name": "COUNTY FINANCE",
+   "path": "banks/ng/050001.png"
+  },
+  "090560": {
+   "name": "CRUST MICROFINANCE BANK",
+   "path": "banks/ng/090560.png"
+  },
+  "090845": {
+   "name": "DASH MFB",
+   "path": "banks/ng/090845.png"
+  },
+  "090828": {
+   "name": "Dillon MFB",
+   "path": "banks/ng/090828.png"
+  },
+  "090470": {
+   "name": "DOT Microfinance bank",
+   "path": "banks/ng/090470.png"
+  },
+  "090427": {
+   "name": "EBSU MICROFINANCE Bank",
+   "path": "banks/ng/090427.png"
+  },
+  "000010": {
+   "name": "Ecobank",
+   "path": "banks/ng/000010.png"
+  },
+  "090097": {
+   "name": "Ekondo MFB",
+   "path": "banks/ng/090097.png"
+  },
+  "090166": {
+   "name": "Eso-E Microfinance Bank",
+   "path": "banks/ng/090166.png"
+  },
+  "090982": {
+   "name": "ETHICA MFB",
+   "path": "banks/ng/090982.png"
+  },
+  "090678": {
+   "name": "EXCEL MICROFINANCE BANK",
+   "path": "banks/ng/090678.png"
+  },
+  "090328": {
+   "name": "Eyowo MFB",
+   "path": "banks/ng/090328.png"
+  },
+  "090551": {
+   "name": "FairMoney MFB",
+   "path": "banks/ng/090551.png"
+  },
+  "000003": {
+   "name": "FCMB Plc",
+   "path": "banks/ng/000003.png"
+  },
+  "050003": {
+   "name": "FEWCHORE FINANCE",
+   "path": "banks/ng/050003.png"
+  },
+  "090153": {
+   "name": "FFS Microfinance Bank",
+   "path": "banks/ng/090153.png"
+  },
+  "000007": {
+   "name": "Fidelity Bank",
+   "path": "banks/ng/000007.png"
+  },
+  "090366": {
+   "name": "Firmus MFB",
+   "path": "banks/ng/090366.png"
+  },
+  "000016": {
+   "name": "First Bank of Nigeria",
+   "path": "banks/ng/000016.png"
+  },
+  "090285": {
+   "name": "First Option MFB",
+   "path": "banks/ng/090285.png"
+  },
+  "090164": {
+   "name": "First Royal Microfinance Bank",
+   "path": "banks/ng/090164.png"
+  },
+  "090567": {
+   "name": "Flutterwave Microfinance Bank",
+   "path": "banks/ng/090567.png"
+  },
+  "070009": {
+   "name": "Gateway Mortgage Bank",
+   "path": "banks/ng/070009.png"
+  },
+  "000027": {
+   "name": "Globus Bank",
+   "path": "banks/ng/000027.png"
+  },
+  "090278": {
+   "name": "Glory MFB",
+   "path": "banks/ng/090278.png"
+  },
+  "090664": {
+   "name": "GOOD SHEPHERD MICROFINANCE",
+   "path": "banks/ng/090664.png"
+  },
+  "090335": {
+   "name": "GRANTS MICROFINANCE BANK",
+   "path": "banks/ng/090335.png"
+  },
+  "060004": {
+   "name": "Greenwich Merchant Bank",
+   "path": "banks/ng/060004.png"
+  },
+  "090195": {
+   "name": "Grooming Microfinance Bank",
+   "path": "banks/ng/090195.png"
+  },
+  "000013": {
+   "name": "GTBank Plc",
+   "path": "banks/ng/000013.png"
+  },
+  "090147": {
+   "name": "Hackman Microfinance Bank",
+   "path": "banks/ng/090147.png"
+  },
+  "070017": {
+   "name": "Haggai Mortgage Bank Limited",
+   "path": "banks/ng/070017.png"
+  },
+  "090121": {
+   "name": "Hasal Micro-finance Bank",
+   "path": "banks/ng/090121.png"
+  },
+  "090777": {
+   "name": "HAYAT TRUST MFB",
+   "path": "banks/ng/090777.png"
+  },
+  "090118": {
+   "name": "IBILE Microfinance Bank",
+   "path": "banks/ng/090118.png"
+  },
+  "070025": {
+   "name": "IBOM MORTGAGE BANK",
+   "path": "banks/ng/070025.png"
+  },
+  "090838": {
+   "name": "INEBA GOGO MFB",
+   "path": "banks/ng/090838.png"
+  },
+  "090157": {
+   "name": "Infinity Microfinance Bank",
+   "path": "banks/ng/090157.png"
+  },
+  "070016": {
+   "name": "Infinity Trust Mortgage Bank",
+   "path": "banks/ng/070016.png"
+  },
+  "000006": {
+   "name": "JAIZ Bank",
+   "path": "banks/ng/000006.png"
+  },
+  "090320": {
+   "name": "Kadpoly MICROFINANCE BANK",
+   "path": "banks/ng/090320.png"
+  },
+  "090667": {
+   "name": "KAYI MICROFINANCE BANK",
+   "path": "banks/ng/090667.png"
+  },
+  "090554": {
+   "name": "KAYVEE MICROFINANCE BANK",
+   "path": "banks/ng/090554.png"
+  },
+  "070031": {
+   "name": "KEBBI STATE HOME SAVINGS AND LOANS LIMITED",
+   "path": "banks/ng/070031.png"
+  },
+  "000002": {
+   "name": "Keystone Bank",
+   "path": "banks/ng/000002.png"
+  },
+  "090480": {
+   "name": "Kolomoni MFB",
+   "path": "banks/ng/090480.png"
+  },
+  "090380": {
+   "name": "KREDI MONEY MICROFINANCE BANK",
+   "path": "banks/ng/090380.png"
+  },
+  "090267": {
+   "name": "Kuda Micro-finance Bank",
+   "path": "banks/ng/090267.png"
+  },
+  "070012": {
+   "name": "Lagos Building Investment Company",
+   "path": "banks/ng/070012.png"
+  },
+  "090420": {
+   "name": "Letshego MFB",
+   "path": "banks/ng/090420.png"
+  },
+  "090435": {
+   "name": "Links  Microfinance Bank",
+   "path": "banks/ng/090435.png"
+  },
+  "090620": {
+   "name": "LOMA MICROFINANCE BANK",
+   "path": "banks/ng/090620.png"
+  },
+  "000029": {
+   "name": "Lotus Bank",
+   "path": "banks/ng/000029.png"
+  },
+  "090764": {
+   "name": "MAAL MICROFINANCE BANK",
+   "path": "banks/ng/090764.png"
+  },
+  "090825": {
+   "name": "MAHFUZ MFB",
+   "path": "banks/ng/090825.png"
+  },
+  "090171": {
+   "name": "Mainstreet Micro-finance Bank",
+   "path": "banks/ng/090171.png"
+  },
+  "090854": {
+   "name": "MAYDEN MFB",
+   "path": "banks/ng/090854.png"
+  },
+  "090321": {
+   "name": "Mayfair MFB",
+   "path": "banks/ng/090321.png"
+  },
+  "070019": {
+   "name": "MayFresh Mortgage Bank",
+   "path": "banks/ng/070019.png"
+  },
+  "090824": {
+   "name": "Mega MFB",
+   "path": "banks/ng/090824.png"
+  },
+  "090405": {
+   "name": "Moniepoint Microfinance Bank",
+   "path": "banks/ng/090405.png"
+  },
+  "090190": {
+   "name": "Mutual Benefits Microfinance Bank",
+   "path": "banks/ng/090190.png"
+  },
+  "090263": {
+   "name": "Navy Microfinance Bank",
+   "path": "banks/ng/090263.png"
+  },
+  "090675": {
+   "name": "NET MICROFINANCE BANK",
+   "path": "banks/ng/090675.png"
+  },
+  "090194": {
+   "name": "NIRSAL Microfinance Bank",
+   "path": "banks/ng/090194.png"
+  },
+  "090645": {
+   "name": "Nombank MFB",
+   "path": "banks/ng/090645.png"
+  },
+  "090734": {
+   "name": "NOVUS MICROFINANCE BANK",
+   "path": "banks/ng/090734.png"
+  },
+  "070001": {
+   "name": "NPF Micro-finance Bank",
+   "path": "banks/ng/070001.png"
+  },
+  "090272": {
+   "name": "Olabisi Onabanjo University Microfinance Bank",
+   "path": "banks/ng/090272.png"
+  },
+  "090471": {
+   "name": "OLUCHUKWU Microfinance Bank",
+   "path": "banks/ng/090471.png"
+  },
+  "000036": {
+   "name": "Optimus Bank",
+   "path": "banks/ng/000036.png"
+  },
+  "090846": {
+   "name": "PACT MFB",
+   "path": "banks/ng/090846.png"
+  },
+  "000030": {
+   "name": "PARALLEX BANK",
+   "path": "banks/ng/000030.png"
+  },
+  "090680": {
+   "name": "PATHFINDER MICROFINANCE BANK",
+   "path": "banks/ng/090680.png"
+  },
+  "090317": {
+   "name": "PatrickGold Microfinance Bank",
+   "path": "banks/ng/090317.png"
+  },
+  "090986": {
+   "name": "Paystack MFB",
+   "path": "banks/ng/090986.png"
+  },
+  "090402": {
+   "name": "Peace Microfinance Bank",
+   "path": "banks/ng/090402.png"
+  },
+  "090137": {
+   "name": "PecanTrust Microfinance Bank",
+   "path": "banks/ng/090137.png"
+  },
+  "090135": {
+   "name": "Personal Trust Microfinance Bank",
+   "path": "banks/ng/090135.png"
+  },
+  "090768": {
+   "name": "PETTYSAVE MICROFINANCE BANK",
+   "path": "banks/ng/090768.png"
+  },
+  "070013": {
+   "name": "Platinum Mortgage Bank",
+   "path": "banks/ng/070013.png"
+  },
+  "000008": {
+   "name": "Polaris Bank",
+   "path": "banks/ng/000008.png"
+  },
+  "090495": {
+   "name": "Prospa Capital Microfinance Bank",
+   "path": "banks/ng/090495.png"
+  },
+  "000023": {
+   "name": "Providus Bank",
+   "path": "banks/ng/000023.png"
+  },
+  "090261": {
+   "name": "Quickfund Microfinance Bank",
+   "path": "banks/ng/090261.png"
+  },
+  "000024": {
+   "name": "Rand Merchant Bank",
+   "path": "banks/ng/000024.png"
+  },
+  "070011": {
+   "name": "Refuge Mortgage Bank",
+   "path": "banks/ng/070011.png"
+  },
+  "090322": {
+   "name": "Rephidim MICROFINANCE BANK",
+   "path": "banks/ng/090322.png"
+  },
+  "090766": {
+   "name": "RETRUST MICROFINANCE BANK",
+   "path": "banks/ng/090766.png"
+  },
+  "090449": {
+   "name": "Rex Microfinance Bank",
+   "path": "banks/ng/090449.png"
+  },
+  "090433": {
+   "name": "RIGO Microfinance Bank",
+   "path": "banks/ng/090433.png"
+  },
+  "090547": {
+   "name": "ROCKSHIELD MICROFINANCE BANK",
+   "path": "banks/ng/090547.png"
+  },
+  "090535": {
+   "name": "RSU MICROFINANCE",
+   "path": "banks/ng/090535.png"
+  },
+  "090175": {
+   "name": "Rubies Micro-finance Bank",
+   "path": "banks/ng/090175.png"
+  },
+  "090286": {
+   "name": "Safe Haven MFB",
+   "path": "banks/ng/090286.png"
+  },
+  "000034": {
+   "name": "Signature Bank",
+   "path": "banks/ng/000034.png"
+  },
+  "090641": {
+   "name": "SOURCE MICROFINANCE BANK",
+   "path": "banks/ng/090641.png"
+  },
+  "090325": {
+   "name": "Sparkle",
+   "path": "banks/ng/090325.png"
+  },
+  "090436": {
+   "name": "Spectrum Microfinance Bank",
+   "path": "banks/ng/090436.png"
+  },
+  "000012": {
+   "name": "Stanbic IBTC Bank",
+   "path": "banks/ng/000012.png"
+  },
+  "000021": {
+   "name": "Standard Chartered Bank",
+   "path": "banks/ng/000021.png"
+  },
+  "090262": {
+   "name": "Stellas Microfinance Bank",
+   "path": "banks/ng/090262.png"
+  },
+  "000001": {
+   "name": "Sterling Bank",
+   "path": "banks/ng/000001.png"
+  },
+  "080003": {
+   "name": "Summit Bank",
+   "path": "banks/ng/080003.png"
+  },
+  "000022": {
+   "name": "Suntrust Bank Nigeria Limited",
+   "path": "banks/ng/000022.png"
+  },
+  "090827": {
+   "name": "SYCAMORE MFB",
+   "path": "banks/ng/090827.png"
+  },
+  "000026": {
+   "name": "Taj Bank",
+   "path": "banks/ng/000026.png"
+  },
+  "000042": {
+   "name": "Tatum Bank",
+   "path": "banks/ng/000042.png"
+  },
+  "090716": {
+   "name": "TENN MICROFINANCE BANK",
+   "path": "banks/ng/090716.png"
+  },
+  "000025": {
+   "name": "Titan Trust Bank",
+   "path": "banks/ng/000025.png"
+  },
+  "090801": {
+   "name": "Toprate Microfinance Bank",
+   "path": "banks/ng/090801.png"
+  },
+  "090315": {
+   "name": "U AND C MFB",
+   "path": "banks/ng/090315.png"
+  },
+  "090762": {
+   "name": "UBJ MICROFINANCE BANK",
+   "path": "banks/ng/090762.png"
+  },
+  "090781": {
+   "name": "ULTRAVIOLET MICROFINANCE BANK",
+   "path": "banks/ng/090781.png"
+  },
+  "090510": {
+   "name": "UMUNNACHI MICROFINANCE BANK",
+   "path": "banks/ng/090510.png"
+  },
+  "090331": {
+   "name": "UNAAB MFB",
+   "path": "banks/ng/090331.png"
+  },
+  "090778": {
+   "name": "UNIABUJA MICROFINANCE BANK",
+   "path": "banks/ng/090778.png"
+  },
+  "090193": {
+   "name": "Unical Microfinance Bank",
+   "path": "banks/ng/090193.png"
+  },
+  "000018": {
+   "name": "Union Bank",
+   "path": "banks/ng/000018.png"
+  },
+  "000004": {
+   "name": "United Bank for Africa",
+   "path": "banks/ng/000004.png"
+  },
+  "000011": {
+   "name": "Unity Bank",
+   "path": "banks/ng/000011.png"
+  },
+  "090338": {
+   "name": "UniUyo Microfinance Bank",
+   "path": "banks/ng/090338.png"
+  },
+  "050020": {
+   "name": "VALE FINANCE",
+   "path": "banks/ng/050020.png"
+  },
+  "090110": {
+   "name": "VFD Micro-finance Bank",
+   "path": "banks/ng/090110.png"
+  },
+  "090813": {
+   "name": "Victory MFB",
+   "path": "banks/ng/090813.png"
+  },
+  "090590": {
+   "name": "WAYA MICRO FINANCE",
+   "path": "banks/ng/090590.png"
+  },
+  "000017": {
+   "name": "Wema Bank",
+   "path": "banks/ng/000017.png"
+  },
+  "090741": {
+   "name": "WESTON-CHARIS MICROFINANCE BANK",
+   "path": "banks/ng/090741.png"
+  },
+  "050035": {
+   "name": "Whitecrust Finance",
+   "path": "banks/ng/050035.png"
+  },
+  "090142": {
+   "name": "Yes Microfinance Bank",
+   "path": "banks/ng/090142.png"
+  },
+  "000015": {
+   "name": "Zenith Bank Plc",
+   "path": "banks/ng/000015.png"
+  },
+  "090718": {
+   "name": "ZITRA MICROFINANCE BANK",
+   "path": "banks/ng/090718.png"
+  }
+ },
+ "bills": {
+  "mtn": {
+   "name": "MTN",
+   "category": "airtime",
+   "path": "bills/mtn.png"
+  },
+  "airtel": {
+   "name": "AIRTEL",
+   "category": "airtime",
+   "path": "bills/airtel.png"
+  },
+  "glo": {
+   "name": "GLO",
+   "category": "airtime",
+   "path": "bills/glo.png"
+  },
+  "globacom": {
+   "name": "GLOBACOM",
+   "category": "airtime",
+   "path": "bills/glo.png"
+  },
+  "t2mobile": {
+   "name": "T2MOBILE",
+   "category": "airtime",
+   "path": "bills/t2mobile.png"
+  },
+  "startimes": {
+   "name": "startimes",
+   "category": "tv",
+   "path": "bills/startimes.png"
+  },
+  "gotv": {
+   "name": "gotv",
+   "category": "tv",
+   "path": "bills/gotv.png"
+  },
+  "dstv": {
+   "name": "dstv",
+   "category": "tv",
+   "path": "bills/dstv.png"
+  },
+  "bet-9ja": {
+   "name": "bet 9ja",
+   "category": "betting",
+   "path": "bills/bet-9ja.png"
+  },
+  "merrybet-gold-limited": {
+   "name": "merrybet gold limited",
+   "category": "betting",
+   "path": "bills/merrybet-gold-limited.png"
+  },
+  "nairabet-get-alt-ng": {
+   "name": "nairabet - get alt ng",
+   "category": "betting",
+   "path": "bills/nairabet-get-alt-ng.png"
+  },
+  "bangbet": {
+   "name": "bangbet",
+   "category": "betting",
+   "path": "bills/bangbet.png"
+  },
+  "supabet": {
+   "name": "supabet",
+   "category": "betting",
+   "path": "bills/supabet.png"
+  },
+  "cloudbet": {
+   "name": "cloudbet",
+   "category": "betting",
+   "path": "bills/cloudbet.png"
+  },
+  "betlion": {
+   "name": "betlion",
+   "category": "betting",
+   "path": "bills/betlion.png"
+  },
+  "1xbet": {
+   "name": "1xbet",
+   "category": "betting",
+   "path": "bills/1xbet.png"
+  },
+  "betway": {
+   "name": "betway",
+   "category": "betting",
+   "path": "bills/betway.png"
+  },
+  "betking": {
+   "name": "betking",
+   "category": "betting",
+   "path": "bills/betking.png"
+  },
+  "naijabet": {
+   "name": "naijabet",
+   "category": "betting",
+   "path": "bills/naijabet.png"
+  },
+  "sportybet": {
+   "name": "sportybet",
+   "category": "betting",
+   "path": "bills/sportybet.png"
+  },
+  "greenlotto": {
+   "name": "greenlotto",
+   "category": "betting",
+   "path": "bills/greenlotto.png"
+  },
+  "westernlotto": {
+   "name": "westernlotto",
+   "category": "betting",
+   "path": "bills/westernlotto.png"
+  },
+  "mlotto": {
+   "name": "mlotto",
+   "category": "betting",
+   "path": "bills/mlotto.png"
+  },
+  "hallabet": {
+   "name": "hallabet",
+   "category": "betting",
+   "path": "bills/hallabet.png"
+  },
+  "eko-elec-prepaid": {
+   "name": "eko elec prepaid",
+   "category": "electricity",
+   "path": "bills/eko-elec-prepaid.png"
+  },
+  "abuja-elec-prepaid": {
+   "name": "abuja elec prepaid",
+   "category": "electricity",
+   "path": "bills/abuja-elec-prepaid.png"
+  },
+  "kaduna-elec-prepaid": {
+   "name": "kaduna elec prepaid",
+   "category": "electricity",
+   "path": "bills/kaduna-elec-prepaid.png"
+  },
+  "jos-elect-prepaid": {
+   "name": "jos elect prepaid",
+   "category": "electricity",
+   "path": "bills/jos-elect-prepaid.png"
+  },
+  "ikeja-elec-prepaid": {
+   "name": "ikeja elec prepaid",
+   "category": "electricity",
+   "path": "bills/ikeja-elec-prepaid.png"
+  },
+  "kano-elec-prepaid": {
+   "name": "kano elec prepaid",
+   "category": "electricity",
+   "path": "bills/kano-elec-prepaid.png"
+  },
+  "enugu-elec-prepaid": {
+   "name": "enugu elec prepaid",
+   "category": "electricity",
+   "path": "bills/enugu-elec-prepaid.png"
+  },
+  "port-harcourt-elec-prepaid": {
+   "name": "port harcourt elec prepaid",
+   "category": "electricity",
+   "path": "bills/port-harcourt-elec-prepaid.png"
+  },
+  "ibadan-elec-prepaid": {
+   "name": "ibadan elec prepaid",
+   "category": "electricity",
+   "path": "bills/ibadan-elec-prepaid.png"
+  },
+  "benin-elec-prepaid": {
+   "name": "benin elec prepaid",
+   "category": "electricity",
+   "path": "bills/benin-elec-prepaid.png"
+  },
+  "yola-elec-prepaid": {
+   "name": "yola elec prepaid",
+   "category": "electricity",
+   "path": "bills/yola-elec-prepaid.png"
+  }
+ },
+ "coins": {
+  "btc": {
+   "name": "Bitcoin",
+   "path": "coins/btc.png"
+  },
+  "eth": {
+   "name": "Ethereum",
+   "path": "coins/eth.png"
+  },
+  "avax": {
+   "name": "Avalanche",
+   "path": "coins/avax.png"
+  },
+  "usdt": {
+   "name": "USDT",
+   "path": "coins/usdt.png"
+  },
+  "usdc": {
+   "name": "USDC",
+   "path": "coins/usdc.png"
+  },
+  "ngn": {
+   "name": "Naira",
+   "path": "coins/ngn.png"
+  },
+  "usd": {
+   "name": "US Dollar",
+   "path": "coins/usd.png"
+  },
+  "bnb": {
+   "name": "Binance Token",
+   "path": "coins/bnb.png"
+  },
+  "matic": {
+   "name": "Matic",
+   "path": "coins/matic.png"
+  },
+  "tron": {
+   "name": "Tron",
+   "path": "coins/tron.png"
+  },
+  "cfx": {
+   "name": "conflux",
+   "path": "coins/cfx.png"
+  },
+  "sol": {
+   "name": "solana",
+   "path": "coins/sol.png"
+  },
+  "ton": {
+   "name": "ton",
+   "path": "coins/ton.png"
+  },
+  "doge": {
+   "name": "dogecoin",
+   "path": "coins/doge.png"
+  },
+  "ada": {
+   "name": "cardano",
+   "path": "coins/ada.png"
+  }
+ }
+}

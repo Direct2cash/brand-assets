@@ -1,0 +1,212 @@
+[
+ {
+  "name": "MTN",
+  "slug": "mtn",
+  "category": "airtime",
+  "file": "bills/mtn.png"
+ },
+ {
+  "name": "AIRTEL",
+  "slug": "airtel",
+  "category": "airtime",
+  "file": "bills/airtel.png"
+ },
+ {
+  "name": "GLO",
+  "slug": "glo",
+  "category": "airtime",
+  "file": "bills/glo.png"
+ },
+ {
+  "name": "GLOBACOM",
+  "slug": "globacom",
+  "category": "airtime",
+  "file": "bills/glo.png"
+ },
+ {
+  "name": "T2MOBILE",
+  "slug": "t2mobile",
+  "category": "airtime",
+  "file": "bills/t2mobile.png"
+ },
+ {
+  "name": "startimes",
+  "slug": "startimes",
+  "category": "tv",
+  "file": "bills/startimes.png"
+ },
+ {
+  "name": "gotv",
+  "slug": "gotv",
+  "category": "tv",
+  "file": "bills/gotv.png"
+ },
+ {
+  "name": "dstv",
+  "slug": "dstv",
+  "category": "tv",
+  "file": "bills/dstv.png"
+ },
+ {
+  "name": "bet 9ja",
+  "slug": "bet-9ja",
+  "category": "betting",
+  "file": "bills/bet-9ja.png"
+ },
+ {
+  "name": "merrybet gold limited",
+  "slug": "merrybet-gold-limited",
+  "category": "betting",
+  "file": "bills/merrybet-gold-limited.png"
+ },
+ {
+  "name": "nairabet - get alt ng",
+  "slug": "nairabet-get-alt-ng",
+  "category": "betting",
+  "file": "bills/nairabet-get-alt-ng.png"
+ },
+ {
+  "name": "bangbet",
+  "slug": "bangbet",
+  "category": "betting",
+  "file": "bills/bangbet.png"
+ },
+ {
+  "name": "supabet",
+  "slug": "supabet",
+  "category": "betting",
+  "file": "bills/supabet.png"
+ },
+ {
+  "name": "cloudbet",
+  "slug": "cloudbet",
+  "category": "betting",
+  "file": "bills/cloudbet.png"
+ },
+ {
+  "name": "betlion",
+  "slug": "betlion",
+  "category": "betting",
+  "file": "bills/betlion.png"
+ },
+ {
+  "name": "1xbet",
+  "slug": "1xbet",
+  "category": "betting",
+  "file": "bills/1xbet.png"
+ },
+ {
+  "name": "betway",
+  "slug": "betway",
+  "category": "betting",
+  "file": "bills/betway.png"
+ },
+ {
+  "name": "betking",
+  "slug": "betking",
+  "category": "betting",
+  "file": "bills/betking.png"
+ },
+ {
+  "name": "naijabet",
+  "slug": "naijabet",
+  "category": "betting",
+  "file": "bills/naijabet.png"
+ },
+ {
+  "name": "sportybet",
+  "slug": "sportybet",
+  "category": "betting",
+  "file": "bills/sportybet.png"
+ },
+ {
+  "name": "greenlotto",
+  "slug": "greenlotto",
+  "category": "betting",
+  "file": "bills/greenlotto.png"
+ },
+ {
+  "name": "westernlotto",
+  "slug": "westernlotto",
+  "category": "betting",
+  "file": "bills/westernlotto.png"
+ },
+ {
+  "name": "mlotto",
+  "slug": "mlotto",
+  "category": "betting",
+  "file": "bills/mlotto.png"
+ },
+ {
+  "name": "hallabet",
+  "slug": "hallabet",
+  "category": "betting",
+  "file": "bills/hallabet.png"
+ },
+ {
+  "name": "eko elec prepaid",
+  "slug": "eko-elec-prepaid",
+  "category": "electricity",
+  "file": "bills/eko-elec-prepaid.png"
+ },
+ {
+  "name": "abuja elec prepaid",
+  "slug": "abuja-elec-prepaid",
+  "category": "electricity",
+  "file": "bills/abuja-elec-prepaid.png"
+ },
+ {
+  "name": "kaduna elec prepaid",
+  "slug": "kaduna-elec-prepaid",
+  "category": "electricity",
+  "file": "bills/kaduna-elec-prepaid.png"
+ },
+ {
+  "name": "jos elect prepaid",
+  "slug": "jos-elect-prepaid",
+  "category": "electricity",
+  "file": "bills/jos-elect-prepaid.png"
+ },
+ {
+  "name": "ikeja elec prepaid",
+  "slug": "ikeja-elec-prepaid",
+  "category": "electricity",
+  "file": "bills/ikeja-elec-prepaid.png"
+ },
+ {
+  "name": "kano elec prepaid",
+  "slug": "kano-elec-prepaid",
+  "category": "electricity",
+  "file": "bills/kano-elec-prepaid.png"
+ },
+ {
+  "name": "enugu elec prepaid",
+  "slug": "enugu-elec-prepaid",
+  "category": "electricity",
+  "file": "bills/enugu-elec-prepaid.png"
+ },
+ {
+  "name": "port harcourt elec prepaid",
+  "slug": "port-harcourt-elec-prepaid",
+  "category": "electricity",
+  "file": "bills/port-harcourt-elec-prepaid.png"
+ },
+ {
+  "name": "ibadan elec prepaid",
+  "slug": "ibadan-elec-prepaid",
+  "category": "electricity",
+  "file": "bills/ibadan-elec-prepaid.png"
+ },
+ {
+  "name": "benin elec prepaid",
+  "slug": "benin-elec-prepaid",
+  "category": "electricity",
+  "file": "bills/benin-elec-prepaid.png"
+ },
+ {
+  "name": "yola elec prepaid",
+  "slug": "yola-elec-prepaid",
+  "category": "electricity",
+  "file": "bills/yola-elec-prepaid.png"
+ }
+]

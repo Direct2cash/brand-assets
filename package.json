@@ -1,0 +1,18 @@
+{
+  "name": "@direct2cash/brand-assets",
+  "version": "1.0.0",
+  "description": "Static brand assets (bank, biller, coin logos) served via jsDelivr",
+  "scripts": {
+    "banks": "node scripts/sync-banks.mjs",
+    "bills": "node scripts/sync-bills.mjs",
+    "coins": "node scripts/sync-coins.mjs",
+    "index": "node scripts/build-index.mjs",
+    "validate": "node scripts/validate.mjs",
+    "check": "npm run index && npm run validate"
+  },
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "sharp": "^0.35.5"
+  },
+  "private": true
+}
