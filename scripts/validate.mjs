@@ -13,6 +13,7 @@ const manifests = [
   { name: "bills", entries: read("bills/manifest.json"), key: "slug" },
   { name: "coins", entries: read("coins/manifest.json"), key: "symbol" },
   { name: "giftcards", entries: read("giftcards/manifest.json"), key: "productId" },
+  { name: "giftcards/sochitel", entries: read("giftcards/sochitel/manifest.json"), key: "operatorId" },
 ];
 
 const referenced = new Set();
@@ -47,7 +48,7 @@ const walk = (dir) =>
     return entry.isDirectory() ? walk(full) : [full];
   });
 
-for (const dir of ["banks/ng", "bills", "coins", "giftcards"]) {
+for (const dir of ["banks/ng", "bills", "coins", "giftcards", "giftcards/sochitel"]) {
   for (const file of walk(dir)) {
     if (file.endsWith(".png") && !referenced.has(file)) errors.push(`orphan file ${file}`);
   }
@@ -59,6 +60,9 @@ for (const [code, entry] of Object.entries(index.banks)) {
 }
 for (const [url, file] of Object.entries(index.giftcardLogoMap || {})) {
   if (!fs.existsSync(file)) errors.push(`index: giftcard ${url} -> ${file} missing`);
+}
+for (const [id, file] of Object.entries(index.sochitelLogoMap || {})) {
+  if (!fs.existsSync(file)) errors.push(`index: sochitel ${id} -> ${file} missing`);
 }
 
 if (errors.length) {

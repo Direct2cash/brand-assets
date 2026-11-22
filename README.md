@@ -36,6 +36,9 @@ coins/manifest.json     # [{ symbol, name, file }]
 giftcards/<brand>-<hash>.png   # deduped by Reloadly logo URL
 giftcards/manifest.json        # [{ productId, name, brand, country, logoUrl, file }]
 giftcards/logo-map.json        # { reloadlyLogoUrl: path } — runtime lookup key
+giftcards/sochitel/<operatorId>-<brand>.png   # active provider (Sochitel ships no logos)
+giftcards/sochitel/manifest.json              # [{ operatorId, name, brand, country, file }]
+giftcards/sochitel/logo-map.json              # { operatorId: path } — runtime lookup key
 scripts/*.mjs           # sync + index + validation
 ```
 
@@ -64,6 +67,15 @@ const logo = logoMap[product.logoUrls[0]];
 product.logo = logo ? `${process.env.ASSETS_BASE_URL}/${logo}` : product.logoUrls[0];
 ```
 
+Sochitel (the active giftcard processor) returns no logo at all, so operators are
+matched by `brandName` against the Reloadly catalogue and the art is copied to
+`giftcards/sochitel/<operatorId>.png`. Runtime lookup:
+
+```ts
+const local = sochitelLogoMap[operator.id];
+product.logo = local ? `${process.env.ASSETS_BASE_URL}/${local}` : "";
+```
+
 Bank codes are NIP codes (`000014` Access, `000013` GTBank) — not CBN codes — so they match the production `bank_lists` collection.
 
 ## Adding or updating assets
@@ -83,6 +95,7 @@ Bank codes are NIP codes (`000014` Access, `000013` GTBank) — not CBN codes �
 - Bills: migrated from the existing Simfy Cloudinary account (`dnzzxtemp`).
 - Coins: [cryptocurrency-icons](https://github.com/spothq/cryptocurrency-icons) (MIT), CoinGecko for Conflux (CFX), Cloudinary fallback for fiat symbols.
 - Giftcards: pulled from the Reloadly catalog (`/products`, all 169 countries). 1,699 active products map to 226 unique logo files.
+- Sochitel giftcards: operators crawled from the Sochitel API (47 countries × 52 categories, 702 operators). 171 international brands matched to Reloadly art; local-only merchants have no artwork and fall back to the generic icon.
 
 Bank, biller and coin marks are trademarks of their owners, included here solely to identify the corresponding institution or product in the app. No affiliation or endorsement is implied.
 

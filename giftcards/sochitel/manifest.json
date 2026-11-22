@@ -1,0 +1,7747 @@
+[
+ {
+  "operatorId": "382",
+  "name": "UK Chili Talk Calling Card",
+  "brand": "Chili Talk",
+  "country": "GB",
+  "categories": [
+   "12.0"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "533",
+  "name": "Canada SaskTel",
+  "brand": "SaskTel",
+  "country": "CA",
+  "categories": [
+   "13.0"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "595",
+  "name": "Ireland Homesense",
+  "brand": "Homesense",
+  "country": "IE",
+  "categories": [
+   "13.11"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "598",
+  "name": "Slovenia Mimovrste",
+  "brand": "Mimovrste",
+  "country": "SI",
+  "categories": [
+   "13.6"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "599",
+  "name": "Ireland TKMAXX",
+  "brand": "TKMAXX",
+  "country": "IE",
+  "categories": [
+   "13.5"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "600",
+  "name": "Latvia 220.LV",
+  "brand": "220.LV",
+  "country": "LV",
+  "categories": [
+   "13.6"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "603",
+  "name": "Lithuania pigu.lt",
+  "brand": "pigu.lt",
+  "country": "LT",
+  "categories": [
+   "13.6"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "604",
+  "name": "Belgium BOL.COM",
+  "brand": "BOL.COM",
+  "country": "BE",
+  "categories": [
+   "13.6"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "606",
+  "name": "Belgium Hunkemoller",
+  "brand": "Hunkemoller",
+  "country": "BE",
+  "categories": [
+   "13.24"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "610",
+  "name": "Belgium Torfs",
+  "brand": "Torfs",
+  "country": "BE",
+  "categories": [
+   "13.24"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "614",
+  "name": "Slovakia ALZA.SK",
+  "brand": "ALZA.SK",
+  "country": "SK",
+  "categories": [
+   "13.6"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "616",
+  "name": "Netherlands Zalando",
+  "brand": "Zalando",
+  "country": "NL",
+  "categories": [
+   "13.24"
+  ],
+  "file": "giftcards/sochitel/616-zalando.png",
+  "sourceBrand": "Zalando"
+ },
+ {
+  "operatorId": "617",
+  "name": "Germany Hunkemoller",
+  "brand": "Hunkemoller",
+  "country": "DE",
+  "categories": [
+   "13.24"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "618",
+  "name": "Germany IKEA",
+  "brand": "IKEA",
+  "country": "DE",
+  "categories": [
+   "13.11"
+  ],
+  "file": "giftcards/sochitel/618-ikea.png",
+  "sourceBrand": "IKEA"
+ },
+ {
+  "operatorId": "619",
+  "name": "Germany iTunes",
+  "brand": "iTunes",
+  "country": "DE",
+  "categories": [
+   "13.33"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "622",
+  "name": "Germany OBI",
+  "brand": "OBI",
+  "country": "DE",
+  "categories": [
+   "13.47"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "625",
+  "name": "Netherlands VVV",
+  "brand": "VVV",
+  "country": "NL",
+  "categories": [
+   "13.5"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "626",
+  "name": "Germany Tchibo",
+  "brand": "Tchibo",
+  "country": "DE",
+  "categories": [
+   "13.25",
+   "13.9"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "627",
+  "name": "Netherlands Prenatal",
+  "brand": "Prenatal",
+  "country": "NL",
+  "categories": [
+   "13.5"
+  ],
+  "file": "giftcards/sochitel/627-prenatal.png",
+  "sourceBrand": "Prenatal"
+ },
+ {
+  "operatorId": "629",
+  "name": "Germany Zalando",
+  "brand": "Zalando",
+  "country": "DE",
+  "categories": [
+   "13.24"
+  ],
+  "file": "giftcards/sochitel/629-zalando.png",
+  "sourceBrand": "Zalando"
+ },
+ {
+  "operatorId": "630",
+  "name": "Netherlands Nationale Bioscoop",
+  "brand": "Nationale Bioscoopbon",
+  "country": "NL",
+  "categories": [
+   "13.13"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "631",
+  "name": "France Aubert",
+  "brand": "Aubert",
+  "country": "FR",
+  "categories": [
+   "13.3"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "635",
+  "name": "Netherlands IKEA",
+  "brand": "IKEA",
+  "country": "NL",
+  "categories": [
+   "13.11"
+  ],
+  "file": "giftcards/sochitel/635-ikea.png",
+  "sourceBrand": "IKEA"
+ },
+ {
+  "operatorId": "636",
+  "name": "Netherlands Hunkemoller",
+  "brand": "Hunkemoller",
+  "country": "NL",
+  "categories": [
+   "13.24"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "637",
+  "name": "Netherlands Hema",
+  "brand": "Hema",
+  "country": "NL",
+  "categories": [
+   "13.5"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "640",
+  "name": "Netherlands Gamma",
+  "brand": "Gamma",
+  "country": "NL",
+  "categories": [
+   "13.11"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "641",
+  "name": "France IKEA",
+  "brand": "IKEA",
+  "country": "FR",
+  "categories": [
+   "13.11"
+  ],
+  "file": "giftcards/sochitel/641-ikea.png",
+  "sourceBrand": "IKEA"
+ },
+ {
+  "operatorId": "644",
+  "name": "Netherlands Douglas",
+  "brand": "Douglas",
+  "country": "NL",
+  "categories": [
+   "13.51"
+  ],
+  "file": "giftcards/sochitel/644-douglas.png",
+  "sourceBrand": "Douglas"
+ },
+ {
+  "operatorId": "645",
+  "name": "France Marionnaud",
+  "brand": "Marionnaud",
+  "country": "FR",
+  "categories": [
+   "13.1"
+  ],
+  "file": "giftcards/sochitel/645-marionnaud.png",
+  "sourceBrand": "Marionnaud"
+ },
+ {
+  "operatorId": "648",
+  "name": "Netherlands Decathlon",
+  "brand": "Decathlon",
+  "country": "NL",
+  "categories": [
+   "13.15"
+  ],
+  "file": "giftcards/sochitel/648-decathlon.png",
+  "sourceBrand": "Decathlon"
+ },
+ {
+  "operatorId": "649",
+  "name": "France Nintendo",
+  "brand": "Nintendo",
+  "country": "FR",
+  "categories": [
+   "13.26"
+  ],
+  "file": "giftcards/sochitel/649-nintendo.png",
+  "sourceBrand": "Nintendo"
+ },
+ {
+  "operatorId": "650",
+  "name": "Netherlands BOL.COM",
+  "brand": "BOL.COM",
+  "country": "NL",
+  "categories": [
+   "13.6"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "651",
+  "name": "France PlayStation",
+  "brand": "PlayStation",
+  "country": "FR",
+  "categories": [
+   "13.26"
+  ],
+  "file": "giftcards/sochitel/651-playstation.png",
+  "sourceBrand": "PlayStation"
+ },
+ {
+  "operatorId": "656",
+  "name": "France Zalando",
+  "brand": "Zalando",
+  "country": "FR",
+  "categories": [
+   "13.24"
+  ],
+  "file": "giftcards/sochitel/656-zalando.png",
+  "sourceBrand": "Zalando"
+ },
+ {
+  "operatorId": "696",
+  "name": "UK Playstation",
+  "brand": "PlayStation",
+  "country": "GB",
+  "categories": [
+   "13.26"
+  ],
+  "file": "giftcards/sochitel/696-playstation.png",
+  "sourceBrand": "PlayStation"
+ },
+ {
+  "operatorId": "703",
+  "name": "UK Asda",
+  "brand": "Asda",
+  "country": "GB",
+  "categories": [
+   "13.49"
+  ],
+  "file": "giftcards/sochitel/703-asda.png",
+  "sourceBrand": "Asda"
+ },
+ {
+  "operatorId": "706",
+  "name": "UK Homesense",
+  "brand": "Homesense",
+  "country": "GB",
+  "categories": [
+   "13.11"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "707",
+  "name": "UK John Lewis",
+  "brand": "John Lewis",
+  "country": "GB",
+  "categories": [
+   "13.3"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "708",
+  "name": "UK Tesco",
+  "brand": "Tesco",
+  "country": "GB",
+  "categories": [
+   "13.49"
+  ],
+  "file": "giftcards/sochitel/708-tesco.png",
+  "sourceBrand": "Tesco"
+ },
+ {
+  "operatorId": "709",
+  "name": "UK TK Maxx",
+  "brand": "TKMAXX",
+  "country": "GB",
+  "categories": [
+   "13.3"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "710",
+  "name": "UK Argos",
+  "brand": "Argos",
+  "country": "GB",
+  "categories": [
+   "13.6"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "713",
+  "name": "UK Amazon",
+  "brand": "Amazon",
+  "country": "GB",
+  "categories": [
+   "13.6"
+  ],
+  "file": "giftcards/sochitel/713-amazon.png",
+  "sourceBrand": "Amazon"
+ },
+ {
+  "operatorId": "749",
+  "name": "Nigeria Adam N Eve",
+  "brand": "Adam N Eve",
+  "country": "NG",
+  "categories": [
+   "13.11"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "750",
+  "name": "Nigeria BNatural MedSpa",
+  "brand": "Bnatural MedSpa",
+  "country": "NG",
+  "categories": [
+   "13.1"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "751",
+  "name": "Nigeria Suregift",
+  "brand": "Suregifts",
+  "country": "NG",
+  "categories": [
+   "13.6"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "753",
+  "name": "Nigeria Spar",
+  "brand": "SPAR Hypermarket",
+  "country": "NG",
+  "categories": [
+   "13.49"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "754",
+  "name": "Nigeria Game",
+  "brand": "GAME",
+  "country": "NG",
+  "categories": [
+   "13.7"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "755",
+  "name": "Nigeria CarSpa",
+  "brand": "",
+  "country": "NG",
+  "categories": [
+   "13.18"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "756",
+  "name": "Nigeria Maybrands",
+  "brand": "Maybrands",
+  "country": "NG",
+  "categories": [
+   "13.24"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "757",
+  "name": "Nigeria Twice As Nice",
+  "brand": "Twice As Nice",
+  "country": "NG",
+  "categories": [
+   "13.24"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "758",
+  "name": "Nigeria The5kShop",
+  "brand": "The 5k Shop",
+  "country": "NG",
+  "categories": [
+   "13.24"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "759",
+  "name": "Nigeria Sweet Kiwi",
+  "brand": "Sweet Kiwi",
+  "country": "NG",
+  "categories": [
+   "13.9"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "760",
+  "name": "Nigeria Samsung",
+  "brand": "Samsung",
+  "country": "NG",
+  "categories": [
+   "13.8"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "761",
+  "name": "Nigeria Oriki",
+  "brand": "Oriki",
+  "country": "NG",
+  "categories": [
+   "13.1"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "762",
+  "name": "Nigeria Twenty Six",
+  "brand": "Twenty Six",
+  "country": "NG",
+  "categories": [
+   "13.24"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "763",
+  "name": "Nigeria WaraCake",
+  "brand": "WaraCake",
+  "country": "NG",
+  "categories": [
+   "13.25",
+   "13.9"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "764",
+  "name": "Nigeria Christophers and Co",
+  "brand": "",
+  "country": "NG",
+  "categories": [
+   "12.0"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "765",
+  "name": "Nigeria Laundry Bag",
+  "brand": "",
+  "country": "NG",
+  "categories": [
+   "13.45"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "766",
+  "name": "Nigeria Femme Spa and Body works",
+  "brand": "Femme Spa and Body works",
+  "country": "NG",
+  "categories": [
+   "13.52"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "767",
+  "name": "Nigeria David Wej",
+  "brand": "David Wej",
+  "country": "NG",
+  "categories": [
+   "13.24"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "768",
+  "name": "Nigeria Ruff n Tumble",
+  "brand": "Ruff 'n' Tumble",
+  "country": "NG",
+  "categories": [
+   "13.12"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "769",
+  "name": "Nigeria Kitchen and Accessories",
+  "brand": "",
+  "country": "NG",
+  "categories": [
+   "13.11"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "770",
+  "name": "Nigeria Cafe Neo",
+  "brand": "Cafe Neo",
+  "country": "NG",
+  "categories": [
+   "12.0"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "771",
+  "name": "Nigeria Greymate Care",
+  "brand": "Greymate Care",
+  "country": "NG",
+  "categories": [
+   "13.45"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "772",
+  "name": "Nigeria TT Dalk",
+  "brand": "TT ",
+  "country": "NG",
+  "categories": [
+   "13.24"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "773",
+  "name": "Nigeria Road Chef",
+  "brand": "",
+  "country": "NG",
+  "categories": [
+   "13.9"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "774",
+  "name": "Nigeria SAS Textiles",
+  "brand": "SAS Textiles",
+  "country": "NG",
+  "categories": [
+   "13.24"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "775",
+  "name": "Nigeria Olmart Stores",
+  "brand": "",
+  "country": "NG",
+  "categories": [
+   "13.49"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "776",
+  "name": "Nigeria TheWash Depot",
+  "brand": "TheWash Depot",
+  "country": "NG",
+  "categories": [
+   "13.45"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "777",
+  "name": "Nigeria Brain&Paper",
+  "brand": "Brain&Paper",
+  "country": "NG",
+  "categories": [
+   "13.2"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "779",
+  "name": "Nigeria OandO Gadgets",
+  "brand": "OandO Gadgets",
+  "country": "NG",
+  "categories": [
+   "13.7"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "780",
+  "name": "Nigeria HealthPlus",
+  "brand": "Healthplus",
+  "country": "NG",
+  "categories": [
+   "13.46"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "781",
+  "name": "Nigeria Master Kids Company",
+  "brand": "Master Kids Company",
+  "country": "NG",
+  "categories": [
+   "13.12"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "782",
+  "name": "Nigeria Stargate Jets",
+  "brand": "Stargate Jets",
+  "country": "NG",
+  "categories": [
+   "13.16"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "783",
+  "name": "Nigeria Stargate Chauffeur",
+  "brand": "Stargate Chauffeur",
+  "country": "NG",
+  "categories": [
+   "13.16"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "784",
+  "name": "Nigeria Nuciano Bags",
+  "brand": "Nuciano Bags",
+  "country": "NG",
+  "categories": [
+   "13.24"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "785",
+  "name": "Nigeria Pestargon",
+  "brand": "Pestargon",
+  "country": "NG",
+  "categories": [
+   "13.45"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "786",
+  "name": "Nigeria Looks Like a Good Man",
+  "brand": "",
+  "country": "NG",
+  "categories": [
+   "13.24"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "787",
+  "name": "Nigeria Olivias Cafe",
+  "brand": "Olivias Cafe",
+  "country": "NG",
+  "categories": [
+   "13.9",
+   "13.25"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "788",
+  "name": "Nigeria Akolag",
+  "brand": "Akolag",
+  "country": "NG",
+  "categories": [
+   "13.45"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "789",
+  "name": "Nigeria Starboi Studio",
+  "brand": "Starboi Studio",
+  "country": "NG",
+  "categories": [
+   "13.45"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "790",
+  "name": "Nigeria TSignature",
+  "brand": "",
+  "country": "NG",
+  "categories": [
+   "12.0"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "791",
+  "name": "Nigeria Roxy Amusement Park",
+  "brand": "Roxy Amusement Park",
+  "country": "NG",
+  "categories": [
+   "13.45"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "792",
+  "name": "Nigeria Chicken Paradise",
+  "brand": "Chicken Paradise",
+  "country": "NG",
+  "categories": [
+   "13.9"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "793",
+  "name": "Nigeria Justrite",
+  "brand": "Justrite",
+  "country": "NG",
+  "categories": [
+   "13.6"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "794",
+  "name": "Nigeria All Socks",
+  "brand": "All Socks",
+  "country": "NG",
+  "categories": [
+   "13.24"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "795",
+  "name": "Nigeria Elas Pro",
+  "brand": "",
+  "country": "NG",
+  "categories": [
+   "13.52"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "796",
+  "name": "Nigeria Fabwash Services",
+  "brand": "Fabwash Services",
+  "country": "NG",
+  "categories": [
+   "13.18"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "797",
+  "name": "Nigeria Gold Cat Wigs",
+  "brand": "",
+  "country": "NG",
+  "categories": [
+   "13.24"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "798",
+  "name": "Nigeria Jimeta Laundry and Dry-Cleaning Service",
+  "brand": "",
+  "country": "NG",
+  "categories": [
+   "13.45"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "799",
+  "name": "Nigeria Hairitage Hub",
+  "brand": "Hairitage Hub",
+  "country": "NG",
+  "categories": [
+   "13.52"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "800",
+  "name": "Nigeria May Anthony",
+  "brand": "",
+  "country": "NG",
+  "categories": [
+   "13.24"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "801",
+  "name": "Nigeria Orion Creations",
+  "brand": "Orion Creations",
+  "country": "NG",
+  "categories": [
+   "13.24"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "802",
+  "name": "Nigeria Hamaz Electronics",
+  "brand": "HamazElectronics",
+  "country": "NG",
+  "categories": [
+   "13.8"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "803",
+  "name": "Nigeria Sufi Mart",
+  "brand": "Sufi Mart",
+  "country": "NG",
+  "categories": [
+   "13.49"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "804",
+  "name": "Nigeria SWAGGIE WEARS",
+  "brand": "SWAGGIE WEARS",
+  "country": "NG",
+  "categories": [
+   "13.24"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "806",
+  "name": "Nigeria Mowa Kitchen and Events",
+  "brand": "",
+  "country": "NG",
+  "categories": [
+   "13.45"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "807",
+  "name": "Nigeria Pinnacle studios",
+  "brand": "",
+  "country": "NG",
+  "categories": [
+   "13.45"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "808",
+  "name": "Nigeria Corban Tailoring",
+  "brand": "",
+  "country": "NG",
+  "categories": [
+   "13.24"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "809",
+  "name": "Nigeria Taste of Safron",
+  "brand": "",
+  "country": "NG",
+  "categories": [
+   "13.9"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "810",
+  "name": "Nigeria Lifebridge Medical Dignostic Centre",
+  "brand": "Lifebridge Medical Dignostic Centre",
+  "country": "NG",
+  "categories": [
+   "13.28"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "811",
+  "name": "Nigeria Health n healthy Complete Living",
+  "brand": "Health n healthy Complete Living",
+  "country": "NG",
+  "categories": [
+   "13.9"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "812",
+  "name": "Nigeria Bodyrox Fitness Studio",
+  "brand": "Bodyrox Fitness Studio",
+  "country": "NG",
+  "categories": [
+   "13.15"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "813",
+  "name": "Nigeria The Nail Boutique",
+  "brand": "The Nail-Boutique",
+  "country": "NG",
+  "categories": [
+   "13.52"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "814",
+  "name": "Nigeria Youtopia Beauty",
+  "brand": "",
+  "country": "NG",
+  "categories": [
+   "13.52"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "816",
+  "name": "Nigeria OneandKo",
+  "brand": "OneandKo (Nigeria)",
+  "country": "NG",
+  "categories": [
+   "13.52"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "817",
+  "name": "Nigeria Hingees",
+  "brand": "",
+  "country": "NG",
+  "categories": [
+   "13.11"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "818",
+  "name": "Nigeria Dolls",
+  "brand": "",
+  "country": "NG",
+  "categories": [
+   "13.12"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "819",
+  "name": "Nigeria Mystiquee Perfumery",
+  "brand": "",
+  "country": "NG",
+  "categories": [
+   "13.52"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "820",
+  "name": "Nigeria Fuhler Bra",
+  "brand": "Fuhler Bra",
+  "country": "NG",
+  "categories": [
+   "13.24"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "821",
+  "name": "Nigeria KLs Naturals",
+  "brand": "KLs Naturals",
+  "country": "NG",
+  "categories": [
+   "13.52"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "823",
+  "name": "Nigeria Filmhouse Cinemas",
+  "brand": "Filmhouse Cinema",
+  "country": "NG",
+  "categories": [
+   "13.13"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "824",
+  "name": "Nigeria Swimpro",
+  "brand": "Swimpro",
+  "country": "NG",
+  "categories": [
+   "13.15"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "825",
+  "name": "Nigeria Nuts about Cakes",
+  "brand": "Nuts about Cakes",
+  "country": "NG",
+  "categories": [
+   "13.9"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "826",
+  "name": "Nigeria Casper and Gambinis",
+  "brand": "Casper & Gambinis",
+  "country": "NG",
+  "categories": [
+   "13.9"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "827",
+  "name": "Nigeria Hootas",
+  "brand": "Hootas",
+  "country": "NG",
+  "categories": [
+   "13.9"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "828",
+  "name": "Nigeria SM Casual",
+  "brand": "SM Casual",
+  "country": "NG",
+  "categories": [
+   "13.24"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "829",
+  "name": "Nigeria Tots Toys",
+  "brand": "Tots Toys",
+  "country": "NG",
+  "categories": [
+   "13.12"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "830",
+  "name": "Nigeria Keje Grill",
+  "brand": "Keje Grill",
+  "country": "NG",
+  "categories": [
+   "13.25"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "831",
+  "name": "Nigeria Igwes Palace",
+  "brand": "",
+  "country": "NG",
+  "categories": [
+   "13.25"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "832",
+  "name": "Nigeria De Sofeso",
+  "brand": "",
+  "country": "NG",
+  "categories": [
+   "13.24"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "833",
+  "name": "Nigeria Petals and More",
+  "brand": "",
+  "country": "NG",
+  "categories": [
+   "13.45",
+   "12.0"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "834",
+  "name": "Nigeria CLAN",
+  "brand": "",
+  "country": "NG",
+  "categories": [
+   "13.24"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "835",
+  "name": "Nigeria DEOLA",
+  "brand": "DEOLA",
+  "country": "NG",
+  "categories": [
+   "12.0"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "836",
+  "name": "Nigeria Charms and Glamour",
+  "brand": "",
+  "country": "NG",
+  "categories": [
+   "13.24"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "837",
+  "name": "Nigeria Laguru Health Club",
+  "brand": "Laguru Health Club",
+  "country": "NG",
+  "categories": [
+   "13.15"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "838",
+  "name": "Nigeria Fotoworld",
+  "brand": "",
+  "country": "NG",
+  "categories": [
+   "13.45"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "839",
+  "name": "Nigeria Maroosh Bakery and Snacks",
+  "brand": "Maroosh Bakery and Snacks",
+  "country": "NG",
+  "categories": [
+   "13.9",
+   "13.25"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "840",
+  "name": "Nigeria Country Mall",
+  "brand": "",
+  "country": "NG",
+  "categories": [
+   "13.47"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "842",
+  "name": "Nigeria GlamD",
+  "brand": "",
+  "country": "NG",
+  "categories": [
+   "13.24"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "843",
+  "name": "Nigeria Trufold Home",
+  "brand": "",
+  "country": "NG",
+  "categories": [
+   "13.11"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "844",
+  "name": "Nigeria Raisins Restaurant and Cakes",
+  "brand": "",
+  "country": "NG",
+  "categories": [
+   "13.9",
+   "13.25"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "845",
+  "name": "Nigeria Pastry King",
+  "brand": "Pastry King",
+  "country": "NG",
+  "categories": [
+   "13.25"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "846",
+  "name": "Nigeria Beach Town Supermarket",
+  "brand": "Beach Town Supermarket",
+  "country": "NG",
+  "categories": [
+   "13.49"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "847",
+  "name": "Nigeria Grocery Bazaar",
+  "brand": "Grocery Bazaar",
+  "country": "NG",
+  "categories": [
+   "13.49"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "848",
+  "name": "Nigeria Trendy Affairs",
+  "brand": "Trendy Affairs",
+  "country": "NG",
+  "categories": [
+   "13.47"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "851",
+  "name": "UK Starbucks",
+  "brand": "Starbucks",
+  "country": "GB",
+  "categories": [
+   "13.9"
+  ],
+  "file": "giftcards/sochitel/851-starbucks.png",
+  "sourceBrand": "Starbucks"
+ },
+ {
+  "operatorId": "852",
+  "name": "UK Adidas",
+  "brand": "Addidas",
+  "country": "GB",
+  "categories": [
+   "13.24"
+  ],
+  "file": "giftcards/sochitel/852-addidas.png",
+  "sourceBrand": "Adidas"
+ },
+ {
+  "operatorId": "855",
+  "name": "UK Clarks",
+  "brand": "Clarks",
+  "country": "GB",
+  "categories": [
+   "13.24"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "856",
+  "name": "UK Costa Coffee",
+  "brand": "Costa Cofee",
+  "country": "GB",
+  "categories": [
+   "13.25"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "857",
+  "name": "UK Deliveroo",
+  "brand": "Deliveroo",
+  "country": "GB",
+  "categories": [
+   "13.9"
+  ],
+  "file": "giftcards/sochitel/857-deliveroo.png",
+  "sourceBrand": "Deliveroo"
+ },
+ {
+  "operatorId": "859",
+  "name": "UK Ernest Jones",
+  "brand": "Ernest Jones",
+  "country": "GB",
+  "categories": [
+   "13.24"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "860",
+  "name": "UK Eurostar",
+  "brand": "Eurostar",
+  "country": "GB",
+  "categories": [
+   "13.16"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "863",
+  "name": "UK Google Play",
+  "brand": "Google Play",
+  "country": "GB",
+  "categories": [
+   "13.7"
+  ],
+  "file": "giftcards/sochitel/863-google-play.png",
+  "sourceBrand": "Google play"
+ },
+ {
+  "operatorId": "865",
+  "name": "UK H.Samuel",
+  "brand": "H. Samuel",
+  "country": "GB",
+  "categories": [
+   "13.24"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "867",
+  "name": "UK Inspire UK TravelCard",
+  "brand": "Inspire Travel",
+  "country": "GB",
+  "categories": [
+   "13.17"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "868",
+  "name": "UK Jet 2 Holidays",
+  "brand": "Jet 2 Holidays",
+  "country": "GB",
+  "categories": [
+   "13.17"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "869",
+  "name": "UK Laithwaite's",
+  "brand": "Laithwaite's",
+  "country": "GB",
+  "categories": [
+   "13.9"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "870",
+  "name": "UK Lastminute (Hotel+Flights)",
+  "brand": "Lastminute.com",
+  "country": "GB",
+  "categories": [
+   "13.17"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "871",
+  "name": "UK MANGO",
+  "brand": "MANGO",
+  "country": "GB",
+  "categories": [
+   "13.24"
+  ],
+  "file": "giftcards/sochitel/871-mango.png",
+  "sourceBrand": "Mango"
+ },
+ {
+  "operatorId": "875",
+  "name": "UK National Trust",
+  "brand": "National Trust",
+  "country": "GB",
+  "categories": [
+   "13.29"
+  ],
+  "file": "giftcards/sochitel/875-national-trust.png",
+  "sourceBrand": "National Trust"
+ },
+ {
+  "operatorId": "876",
+  "name": "UK Not On The High Street",
+  "brand": "Not On The High Street",
+  "country": "GB",
+  "categories": [
+   "13.6"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "877",
+  "name": "UK Pizza Hut",
+  "brand": "Pizza Hut Restaurants",
+  "country": "GB",
+  "categories": [
+   "13.9"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "878",
+  "name": "UK Primark",
+  "brand": "Primark",
+  "country": "GB",
+  "categories": [
+   "13.24"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "880",
+  "name": "UK River Island",
+  "brand": "River Island",
+  "country": "GB",
+  "categories": [
+   "13.24"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "881",
+  "name": "UK Sainsbury's",
+  "brand": "Sainsburys",
+  "country": "GB",
+  "categories": [
+   "13.27"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "883",
+  "name": "UK Swarovski",
+  "brand": "Swarovski",
+  "country": "GB",
+  "categories": [
+   "13.24"
+  ],
+  "file": "giftcards/sochitel/883-swarovski.png",
+  "sourceBrand": "Swarovski"
+ },
+ {
+  "operatorId": "886",
+  "name": "UK TripGift",
+  "brand": "TripGift",
+  "country": "GB",
+  "categories": [
+   "13.17"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "888",
+  "name": "UK Uber Eats",
+  "brand": "Uber eats",
+  "country": "GB",
+  "categories": [
+   "13.9"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "890",
+  "name": "UK Wagamama",
+  "brand": "Wagamama",
+  "country": "GB",
+  "categories": [
+   "13.9"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "891",
+  "name": "UK Xbox Game Pass",
+  "brand": "Xbox",
+  "country": "GB",
+  "categories": [
+   "13.26"
+  ],
+  "file": "giftcards/sochitel/891-xbox.png",
+  "sourceBrand": "Xbox"
+ },
+ {
+  "operatorId": "892",
+  "name": "UK Zalando",
+  "brand": "Zalando",
+  "country": "GB",
+  "categories": [
+   "13.24"
+  ],
+  "file": "giftcards/sochitel/892-zalando.png",
+  "sourceBrand": "Zalando"
+ },
+ {
+  "operatorId": "896",
+  "name": "UK New Look",
+  "brand": "New Look",
+  "country": "GB",
+  "categories": [
+   "13.24",
+   "13.3"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "897",
+  "name": "UK Uber",
+  "brand": "Uber",
+  "country": "GB",
+  "categories": [
+   "13.16"
+  ],
+  "file": "giftcards/sochitel/897-uber.png",
+  "sourceBrand": "Uber"
+ },
+ {
+  "operatorId": "907",
+  "name": "USA Applebees",
+  "brand": "Applebees",
+  "country": "US",
+  "categories": [
+   "13.9"
+  ],
+  "file": "giftcards/sochitel/907-applebees.png",
+  "sourceBrand": "Applebee's"
+ },
+ {
+  "operatorId": "908",
+  "name": "USA AutoZone",
+  "brand": "AutoZone",
+  "country": "US",
+  "categories": [
+   "13.18"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "909",
+  "name": "USA Banana Republic",
+  "brand": "Banana Republic",
+  "country": "US",
+  "categories": [
+   "13.24"
+  ],
+  "file": "giftcards/sochitel/909-banana-republic.png",
+  "sourceBrand": "Banana Republic"
+ },
+ {
+  "operatorId": "911",
+  "name": "USA Bath & Body Works",
+  "brand": "Bath & Body Works",
+  "country": "US",
+  "categories": [
+   "13.1"
+  ],
+  "file": "giftcards/sochitel/911-bath-and-body-works.png",
+  "sourceBrand": "Bath & Body Works"
+ },
+ {
+  "operatorId": "915",
+  "name": "USA Buffalo Wild Wings",
+  "brand": "Buffalo Wild Wings",
+  "country": "US",
+  "categories": [
+   "13.9"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "916",
+  "name": "USA California Pizza Kitchen",
+  "brand": "California Pizza Kitchen",
+  "country": "US",
+  "categories": [
+   "13.9"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "919",
+  "name": "USA Carter's",
+  "brand": "Carter's",
+  "country": "US",
+  "categories": [
+   "13.19"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "922",
+  "name": "USA Chili's",
+  "brand": "Chili's Grill & Bar",
+  "country": "US",
+  "categories": [
+   "13.9"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "925",
+  "name": "USA CVS Pharmacy",
+  "brand": "CVS Pharmacy",
+  "country": "US",
+  "categories": [
+   "13.28"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "928",
+  "name": "USA DoorDash",
+  "brand": "Doordash",
+  "country": "US",
+  "categories": [
+   "13.9"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "934",
+  "name": "USA FandangoNOW",
+  "brand": "Fandango",
+  "country": "US",
+  "categories": [
+   "13.32"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "939",
+  "name": "USA Gap Options",
+  "brand": "GAP",
+  "country": "US",
+  "categories": [
+   "13.3"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "941",
+  "name": "USA GrubHub",
+  "brand": "GrubHub",
+  "country": "US",
+  "categories": [
+   "13.9"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "942",
+  "name": "USA H&M",
+  "brand": "H&M",
+  "country": "US",
+  "categories": [
+   "13.3"
+  ],
+  "file": "giftcards/sochitel/942-h-and-m.png",
+  "sourceBrand": "H&M"
+ },
+ {
+  "operatorId": "945",
+  "name": "USA Home Depot",
+  "brand": "Home Depot",
+  "country": "US",
+  "categories": [
+   "13.11"
+  ],
+  "file": "giftcards/sochitel/945-home-depot.png",
+  "sourceBrand": "Home Depot"
+ },
+ {
+  "operatorId": "946",
+  "name": "USA Home Goods",
+  "brand": "Homegoods",
+  "country": "US",
+  "categories": [
+   "13.11"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "949",
+  "name": "USA Hulu Plus",
+  "brand": "Hulu",
+  "country": "US",
+  "categories": [
+   "13.13"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "950",
+  "name": "USA IHOP",
+  "brand": "IHOP",
+  "country": "US",
+  "categories": [
+   "13.9"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "951",
+  "name": "USA Instacart",
+  "brand": "Instacart",
+  "country": "US",
+  "categories": [
+   "13.27"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "952",
+  "name": "USA JC Penney",
+  "brand": "JC Penney",
+  "country": "US",
+  "categories": [
+   "13.3"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "956",
+  "name": "USA Kohl's",
+  "brand": "Kohl's",
+  "country": "US",
+  "categories": [
+   "13.5"
+  ],
+  "file": "giftcards/sochitel/956-kohl-s.png",
+  "sourceBrand": "Kohl’s"
+ },
+ {
+  "operatorId": "957",
+  "name": "USA Longhorn Steakhouse",
+  "brand": "LongHorn Steakhouse",
+  "country": "US",
+  "categories": [
+   "13.9"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "958",
+  "name": "USA Mastercard",
+  "brand": "Mastercard",
+  "country": "US",
+  "categories": [
+   "13.45",
+   "13.6"
+  ],
+  "file": "giftcards/sochitel/958-mastercard.png",
+  "sourceBrand": "Mastercard"
+ },
+ {
+  "operatorId": "959",
+  "name": "USA Michaels",
+  "brand": "Michaels",
+  "country": "US",
+  "categories": [
+   "13.29"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "960",
+  "name": "USA Mix It Up",
+  "brand": "Mix It Up",
+  "country": "US",
+  "categories": [
+   "13.9"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "961",
+  "name": "USA Nintendo",
+  "brand": "Nintendo",
+  "country": "US",
+  "categories": [
+   "13.26"
+  ],
+  "file": "giftcards/sochitel/961-nintendo.png",
+  "sourceBrand": "Nintendo"
+ },
+ {
+  "operatorId": "963",
+  "name": "USA Old Navy",
+  "brand": "Old Navy",
+  "country": "US",
+  "categories": [
+   "13.3"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "964",
+  "name": "USA Olive Garden",
+  "brand": "Olive Garden",
+  "country": "US",
+  "categories": [
+   "13.9"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "967",
+  "name": "USA Petsmart",
+  "brand": "Petsmart",
+  "country": "US",
+  "categories": [
+   "13.5"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "973",
+  "name": "Australia Myer",
+  "brand": "Myer Digital Gift Card",
+  "country": "AU",
+  "categories": [
+   "13.5"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "974",
+  "name": "USA Primark",
+  "brand": "Primark",
+  "country": "US",
+  "categories": [
+   "13.3"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "980",
+  "name": "USA REI",
+  "brand": "REI",
+  "country": "US",
+  "categories": [
+   "13.38"
+  ],
+  "file": "giftcards/sochitel/980-rei.png",
+  "sourceBrand": "REI"
+ },
+ {
+  "operatorId": "981",
+  "name": "USA Safeway",
+  "brand": "Safeway",
+  "country": "US",
+  "categories": [
+   "13.27"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "982",
+  "name": "USA Saks Fifth Avenue",
+  "brand": "Saks Fifth Avenue",
+  "country": "US",
+  "categories": [
+   "13.24"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "983",
+  "name": "USA Sam's Club",
+  "brand": "Sam's Club",
+  "country": "US",
+  "categories": [
+   "13.5"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "985",
+  "name": "USA SHOWTIME",
+  "brand": "SHOWTIME",
+  "country": "US",
+  "categories": [
+   "13.13"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "986",
+  "name": "USA Shutterfly",
+  "brand": "Shutterfly",
+  "country": "US",
+  "categories": [
+   "13.2"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "987",
+  "name": "USA Soma",
+  "brand": "Soma",
+  "country": "US",
+  "categories": [
+   "13.3"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "988",
+  "name": "USA Staples",
+  "brand": "Staples",
+  "country": "US",
+  "categories": [
+   "13.34"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "989",
+  "name": "USA Starbucks",
+  "brand": "Starbucks",
+  "country": "US",
+  "categories": [
+   "13.9"
+  ],
+  "file": "giftcards/sochitel/989-starbucks.png",
+  "sourceBrand": "Starbucks"
+ },
+ {
+  "operatorId": "990",
+  "name": "USA StubHub",
+  "brand": "StubHub",
+  "country": "US",
+  "categories": [
+   "13.13"
+  ],
+  "file": "giftcards/sochitel/990-stubhub.png",
+  "sourceBrand": "StubHub"
+ },
+ {
+  "operatorId": "991",
+  "name": "USA T.J.Maxx",
+  "brand": "TJ Maxx",
+  "country": "US",
+  "categories": [
+   "13.24"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "992",
+  "name": "USA Taco Bell",
+  "brand": "Taco Bell",
+  "country": "US",
+  "categories": [
+   "13.9"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "993",
+  "name": "USA The Cheesecake Factory",
+  "brand": "The Cheesecake Factory",
+  "country": "US",
+  "categories": [
+   "13.9"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "994",
+  "name": "USA The Coffee Bean & Tea Leaf",
+  "brand": "The Coffee Bean & Tea Leaf",
+  "country": "US",
+  "categories": [
+   "13.9"
+  ],
+  "file": "giftcards/sochitel/994-the-coffee-bean-and-tea-leaf.png",
+  "sourceBrand": "The Coffee Bean & Tea Leaf"
+ },
+ {
+  "operatorId": "995",
+  "name": "USA The Container Store",
+  "brand": "The Container Store",
+  "country": "US",
+  "categories": [
+   "13.47"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "997",
+  "name": "USA Uno Chicago Grill",
+  "brand": "Uno Chicago Grill",
+  "country": "US",
+  "categories": [
+   "13.9"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "998",
+  "name": "USA Visa",
+  "brand": "VISA",
+  "country": "US",
+  "categories": [
+   "13.45"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1000",
+  "name": "USA 1-800-Flowers.com",
+  "brand": "1-8flowers.com",
+  "country": "US",
+  "categories": [
+   "13.29"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1001",
+  "name": "USA Adidas",
+  "brand": "Addidas",
+  "country": "US",
+  "categories": [
+   "13.3"
+  ],
+  "file": "giftcards/sochitel/1001-addidas.png",
+  "sourceBrand": "Adidas"
+ },
+ {
+  "operatorId": "1002",
+  "name": "USA Advance Auto Parts",
+  "brand": "Advance Auto Parts",
+  "country": "US",
+  "categories": [
+   "13.18"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1004",
+  "name": "USA Airbnb",
+  "brand": "Airbnb",
+  "country": "US",
+  "categories": [
+   "13.55"
+  ],
+  "file": "giftcards/sochitel/1004-airbnb.png",
+  "sourceBrand": "Airbnb"
+ },
+ {
+  "operatorId": "1005",
+  "name": "USA Amazon",
+  "brand": "Amazon",
+  "country": "US",
+  "categories": [
+   "13.6"
+  ],
+  "file": "giftcards/sochitel/1005-amazon.png",
+  "sourceBrand": "Amazon"
+ },
+ {
+  "operatorId": "1006",
+  "name": "USA AMC Theatres",
+  "brand": "AMC",
+  "country": "US",
+  "categories": [
+   "13.32"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1007",
+  "name": "USA American Eagle Outfitters",
+  "brand": "American Eagle Outfitters",
+  "country": "US",
+  "categories": [
+   "13.3"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1010",
+  "name": "USA Barnes and Noble",
+  "brand": "Barnes and Noble",
+  "country": "US",
+  "categories": [
+   "13.2"
+  ],
+  "file": "giftcards/sochitel/1010-barnes-and-noble.png",
+  "sourceBrand": "Barnes & Noble"
+ },
+ {
+  "operatorId": "1012",
+  "name": "Austria Cyberport",
+  "brand": "Cyberport",
+  "country": "AT",
+  "categories": [
+   "13.7"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1013",
+  "name": "Austria Primark",
+  "brand": "Primark",
+  "country": "AT",
+  "categories": [
+   "13.3"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1015",
+  "name": "Austria Zalando",
+  "brand": "Zalando",
+  "country": "AT",
+  "categories": [
+   "13.24"
+  ],
+  "file": "giftcards/sochitel/1015-zalando.png",
+  "sourceBrand": "Zalando"
+ },
+ {
+  "operatorId": "1016",
+  "name": "Austria Amazon",
+  "brand": "Amazon",
+  "country": "AT",
+  "categories": [
+   "13.6"
+  ],
+  "file": "giftcards/sochitel/1016-amazon.png",
+  "sourceBrand": "Amazon"
+ },
+ {
+  "operatorId": "1018",
+  "name": "USA Bed Bath and Beyond",
+  "brand": "Bed Bath and Beyond",
+  "country": "US",
+  "categories": [
+   "13.29"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1019",
+  "name": "USA Bertucci's",
+  "brand": "Bertucci's",
+  "country": "US",
+  "categories": [
+   "13.9"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1020",
+  "name": "USA Blizzard Balance",
+  "brand": "Blizzard Balance",
+  "country": "US",
+  "categories": [
+   "13.26"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1021",
+  "name": "USA Buca di Beppo",
+  "brand": "Buca di Beppo",
+  "country": "US",
+  "categories": [
+   "13.9"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1022",
+  "name": "USA Burger King",
+  "brand": "Burger King",
+  "country": "US",
+  "categories": [
+   "13.9"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1026",
+  "name": "USA Carnival Cruises",
+  "brand": "Carnival Cruises",
+  "country": "US",
+  "categories": [
+   "13.55"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1030",
+  "name": "USA Chipotle",
+  "brand": "Chipotle",
+  "country": "US",
+  "categories": [
+   "13.9"
+  ],
+  "file": "giftcards/sochitel/1030-chipotle.png",
+  "sourceBrand": "Chipotle"
+ },
+ {
+  "operatorId": "1035",
+  "name": "USA Crutchfield",
+  "brand": "Crutchfield",
+  "country": "US",
+  "categories": [
+   "13.18"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1038",
+  "name": "USA Domino's",
+  "brand": "Domino's",
+  "country": "US",
+  "categories": [
+   "13.9"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1039",
+  "name": "USA DSW",
+  "brand": "DSW Everyday",
+  "country": "US",
+  "categories": [
+   "13.24"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1041",
+  "name": "USA Dunkin' Donuts",
+  "brand": "Dunkin'",
+  "country": "US",
+  "categories": [
+   "13.9"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1044",
+  "name": "USA Fanatics",
+  "brand": "Fanatics",
+  "country": "US",
+  "categories": [
+   "13.3"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1045",
+  "name": "USA Fleming's Prime Steakhouse & Wine Bar",
+  "brand": "Fleming's Prime Steakhouse & Wine Bar",
+  "country": "US",
+  "categories": [
+   "13.9"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1047",
+  "name": "USA GameStop",
+  "brand": "Gamestop",
+  "country": "US",
+  "categories": [
+   "13.26"
+  ],
+  "file": "giftcards/sochitel/1047-gamestop.png",
+  "sourceBrand": "GameStop"
+ },
+ {
+  "operatorId": "1048",
+  "name": "USA Gap",
+  "brand": "GAP",
+  "country": "US",
+  "categories": [
+   "13.3"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1050",
+  "name": "USA Gift of College",
+  "brand": "Gift of College",
+  "country": "US",
+  "categories": [
+   "13.22"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1052",
+  "name": "USA Google Play",
+  "brand": "Google Play",
+  "country": "US",
+  "categories": [
+   "13.26"
+  ],
+  "file": "giftcards/sochitel/1052-google-play.png",
+  "sourceBrand": "Google play"
+ },
+ {
+  "operatorId": "1053",
+  "name": "USA Groupon",
+  "brand": "Groupon",
+  "country": "US",
+  "categories": [
+   "13.6"
+  ],
+  "file": "giftcards/sochitel/1053-groupon.png",
+  "sourceBrand": "Groupon"
+ },
+ {
+  "operatorId": "1055",
+  "name": "USA Hooters",
+  "brand": "Hooters",
+  "country": "US",
+  "categories": [
+   "13.9"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1056",
+  "name": "USA Hotels.com",
+  "brand": "Hotels.com",
+  "country": "US",
+  "categories": [
+   "13.53"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1059",
+  "name": "USA Jagex RuneScape",
+  "brand": "Jagex RuneScape",
+  "country": "US",
+  "categories": [
+   "13.26"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1064",
+  "name": "USA Lowe's",
+  "brand": "Lowe's",
+  "country": "US",
+  "categories": [
+   "13.11"
+  ],
+  "file": "giftcards/sochitel/1064-lowe-s.png",
+  "sourceBrand": "Lowes"
+ },
+ {
+  "operatorId": "1065",
+  "name": "USA Macys",
+  "brand": "Macy's",
+  "country": "US",
+  "categories": [
+   "13.3"
+  ],
+  "file": "giftcards/sochitel/1065-macy-s.png",
+  "sourceBrand": "Macy's"
+ },
+ {
+  "operatorId": "1066",
+  "name": "USA Morton's The Steakhouse",
+  "brand": "Morton's The Steakhouse",
+  "country": "US",
+  "categories": [
+   "13.9"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1067",
+  "name": "USA Nexon Karma",
+  "brand": "Nexon Karma",
+  "country": "US",
+  "categories": [
+   "13.26"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1068",
+  "name": "USA NFLShop.com",
+  "brand": "NFLShop.com",
+  "country": "US",
+  "categories": [
+   "13.3"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1074",
+  "name": "Belgium Mango",
+  "brand": "MANGO",
+  "country": "BE",
+  "categories": [
+   "13.24"
+  ],
+  "file": "giftcards/sochitel/1074-mango.png",
+  "sourceBrand": "Mango"
+ },
+ {
+  "operatorId": "1075",
+  "name": "USA Nike",
+  "brand": "Nike",
+  "country": "US",
+  "categories": [
+   "13.3"
+  ],
+  "file": "giftcards/sochitel/1075-nike.png",
+  "sourceBrand": "Nike"
+ },
+ {
+  "operatorId": "1076",
+  "name": "USA Nordstrom",
+  "brand": "Nordstrom",
+  "country": "US",
+  "categories": [
+   "13.3"
+  ],
+  "file": "giftcards/sochitel/1076-nordstrom.png",
+  "sourceBrand": "Nordstrom"
+ },
+ {
+  "operatorId": "1079",
+  "name": "USA P.F. Chang's",
+  "brand": "P.F. Chang's",
+  "country": "US",
+  "categories": [
+   "13.9"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1080",
+  "name": "USA Papa Johns",
+  "brand": "Papa John's",
+  "country": "US",
+  "categories": [
+   "13.9"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1082",
+  "name": "USA Petco",
+  "brand": "Petco",
+  "country": "US",
+  "categories": [
+   "13.5"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1083",
+  "name": "USA Pinkberry",
+  "brand": "Pinkberry",
+  "country": "US",
+  "categories": [
+   "13.9"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1086",
+  "name": "USA Razer Gold",
+  "brand": "Razer Gold",
+  "country": "US",
+  "categories": [
+   "13.7"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1087",
+  "name": "USA Red Lobster",
+  "brand": "Red Lobster",
+  "country": "US",
+  "categories": [
+   "13.9"
+  ],
+  "file": "giftcards/sochitel/1087-red-lobster.png",
+  "sourceBrand": "Red Lobster"
+ },
+ {
+  "operatorId": "1088",
+  "name": "USA Regal Entertainment",
+  "brand": "Regal Entertainment",
+  "country": "US",
+  "categories": [
+   "13.13"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1089",
+  "name": "USA Ruby Tuesday",
+  "brand": "Ruby Tuesday",
+  "country": "US",
+  "categories": [
+   "13.9"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1090",
+  "name": "USA Sephora",
+  "brand": "Sephora",
+  "country": "US",
+  "categories": [
+   "13.1"
+  ],
+  "file": "giftcards/sochitel/1090-sephora.png",
+  "sourceBrand": "Sephora"
+ },
+ {
+  "operatorId": "1092",
+  "name": "USA SiriusXM",
+  "brand": "SiriusXM",
+  "country": "US",
+  "categories": [
+   "13.13"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1094",
+  "name": "USA Sling TV",
+  "brand": "Sling TV",
+  "country": "US",
+  "categories": [
+   "13.37"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1095",
+  "name": "USA Playstation",
+  "brand": "PlayStation",
+  "country": "US",
+  "categories": [
+   "13.26"
+  ],
+  "file": "giftcards/sochitel/1095-playstation.png",
+  "sourceBrand": "PlayStation"
+ },
+ {
+  "operatorId": "1097",
+  "name": "USA Southwest Airlines",
+  "brand": "Southwest Airlines",
+  "country": "US",
+  "categories": [
+   "13.55"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1098",
+  "name": "USA Spa & Wellness Gift Card",
+  "brand": "Spa & Wellness by Spa Week",
+  "country": "US",
+  "categories": [
+   "13.1"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1100",
+  "name": "USA Steak 'n Shake",
+  "brand": "Steak 'n Shake",
+  "country": "US",
+  "categories": [
+   "13.9"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1101",
+  "name": "USA Target",
+  "brand": "Target",
+  "country": "US",
+  "categories": [
+   "13.5"
+  ],
+  "file": "giftcards/sochitel/1101-target.png",
+  "sourceBrand": "Target"
+ },
+ {
+  "operatorId": "1103",
+  "name": "USA TJX",
+  "brand": "TJX",
+  "country": "US",
+  "categories": [
+   "13.24"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1104",
+  "name": "USA Topgolf",
+  "brand": "Topgolf",
+  "country": "US",
+  "categories": [
+   "13.15"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1105",
+  "name": "USA TripGift",
+  "brand": "TripGift",
+  "country": "US",
+  "categories": [
+   "13.17"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1106",
+  "name": "USA Uber",
+  "brand": "Uber",
+  "country": "US",
+  "categories": [
+   "13.16"
+  ],
+  "file": "giftcards/sochitel/1106-uber.png",
+  "sourceBrand": "Uber"
+ },
+ {
+  "operatorId": "1107",
+  "name": "USA Uber Eats",
+  "brand": "Uber eats",
+  "country": "US",
+  "categories": [
+   "13.9"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1108",
+  "name": "USA Ulta Beauty",
+  "brand": "Ulta Beauty",
+  "country": "US",
+  "categories": [
+   "13.1"
+  ],
+  "file": "giftcards/sochitel/1108-ulta-beauty.png",
+  "sourceBrand": "Ulta Beauty"
+ },
+ {
+  "operatorId": "1109",
+  "name": "USA Under Armour",
+  "brand": "Under Armour",
+  "country": "US",
+  "categories": [
+   "13.3"
+  ],
+  "file": "giftcards/sochitel/1109-under-armour.png",
+  "sourceBrand": "Under Armour®"
+ },
+ {
+  "operatorId": "1110",
+  "name": "USA Walmart",
+  "brand": "Wallmart",
+  "country": "US",
+  "categories": [
+   "13.49"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1111",
+  "name": "USA Wayfair.com",
+  "brand": "Wayfair",
+  "country": "US",
+  "categories": [
+   "13.44"
+  ],
+  "file": "giftcards/sochitel/1111-wayfair.png",
+  "sourceBrand": "Wayfair"
+ },
+ {
+  "operatorId": "1112",
+  "name": "USA West Elm",
+  "brand": "west elm",
+  "country": "US",
+  "categories": [
+   "13.11"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1114",
+  "name": "USA Williams Sonoma",
+  "brand": "Williams Sonoma",
+  "country": "US",
+  "categories": [
+   "13.11"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1116",
+  "name": "USA Wine.com",
+  "brand": "Wine.com",
+  "country": "US",
+  "categories": [
+   "13.9"
+  ],
+  "file": "giftcards/sochitel/1116-wine-com.png",
+  "sourceBrand": "Wine.com"
+ },
+ {
+  "operatorId": "1117",
+  "name": "USA Xbox Live",
+  "brand": "Xbox",
+  "country": "US",
+  "categories": [
+   "13.7"
+  ],
+  "file": "giftcards/sochitel/1117-xbox.png",
+  "sourceBrand": "Xbox"
+ },
+ {
+  "operatorId": "1119",
+  "name": "USA Zappos.com",
+  "brand": "Zappos.com",
+  "country": "US",
+  "categories": [
+   "13.3"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1121",
+  "name": "UAE Babyshop",
+  "brand": "babyshop",
+  "country": "AE",
+  "categories": [
+   "13.12"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1124",
+  "name": "UAE Cleartrip.ae",
+  "brand": "Cleartrip",
+  "country": "AE",
+  "categories": [
+   "13.17"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1127",
+  "name": "UAE Emax",
+  "brand": "Emax",
+  "country": "AE",
+  "categories": [
+   "13.8"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1128",
+  "name": "UAE IKEA",
+  "brand": "IKEA",
+  "country": "AE",
+  "categories": [
+   "13.11"
+  ],
+  "file": "giftcards/sochitel/1128-ikea.png",
+  "sourceBrand": "IKEA"
+ },
+ {
+  "operatorId": "1129",
+  "name": "UAE Lulu Hypermarket",
+  "brand": "Lulu",
+  "country": "AE",
+  "categories": [
+   "13.47"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1130",
+  "name": "UAE Noon",
+  "brand": "Noon",
+  "country": "AE",
+  "categories": [
+   "13.0"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1132",
+  "name": "UAE Sharaf DG",
+  "brand": "Sharaf",
+  "country": "AE",
+  "categories": [
+   "13.47"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1134",
+  "name": "UAE Ubuy",
+  "brand": "Ubuy",
+  "country": "AE",
+  "categories": [
+   "13.6"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1136",
+  "name": "UAE XBOX Live",
+  "brand": "Xbox",
+  "country": "AE",
+  "categories": [
+   "13.26"
+  ],
+  "file": "giftcards/sochitel/1136-xbox.png",
+  "sourceBrand": "Xbox"
+ },
+ {
+  "operatorId": "1137",
+  "name": "UAE Apple App Store",
+  "brand": "App Store & Itunes",
+  "country": "AE",
+  "categories": [
+   "13.6"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1138",
+  "name": "UAE Galeries Lafayette",
+  "brand": "Galeries Lafayette",
+  "country": "AE",
+  "categories": [
+   "13.6"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1140",
+  "name": "UAE Jashanmal Books",
+  "brand": "Jashanmal Books eGift Card",
+  "country": "AE",
+  "categories": [
+   "13.2"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1145",
+  "name": "Turkey Boyner",
+  "brand": "Boyner",
+  "country": "TR",
+  "categories": [
+   "13.24"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1147",
+  "name": "Turkey IKEA",
+  "brand": "IKEA",
+  "country": "TR",
+  "categories": [
+   "13.11"
+  ],
+  "file": "giftcards/sochitel/1147-ikea.png",
+  "sourceBrand": "IKEA"
+ },
+ {
+  "operatorId": "1151",
+  "name": "Switzerland Media Markt",
+  "brand": "Media Markt",
+  "country": "CH",
+  "categories": [
+   "13.6"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1152",
+  "name": "Switzerland Zalando",
+  "brand": "Zalando",
+  "country": "CH",
+  "categories": [
+   "13.3"
+  ],
+  "file": "giftcards/sochitel/1152-zalando.png",
+  "sourceBrand": "Zalando"
+ },
+ {
+  "operatorId": "1153",
+  "name": "Sweden Amazon",
+  "brand": "Amazon",
+  "country": "SE",
+  "categories": [
+   "13.6"
+  ],
+  "file": "giftcards/sochitel/1153-amazon.png",
+  "sourceBrand": "Amazon"
+ },
+ {
+  "operatorId": "1155",
+  "name": "Spain Adidas",
+  "brand": "Addidas",
+  "country": "ES",
+  "categories": [
+   "13.3"
+  ],
+  "file": "giftcards/sochitel/1155-addidas.png",
+  "sourceBrand": "Adidas"
+ },
+ {
+  "operatorId": "1156",
+  "name": "Spain Atrapalo",
+  "brand": "Atrapalo",
+  "country": "ES",
+  "categories": [
+   "13.55"
+  ],
+  "file": "giftcards/sochitel/1156-atrapalo.png",
+  "sourceBrand": "Atrapalo"
+ },
+ {
+  "operatorId": "1157",
+  "name": "Spain Carrefour",
+  "brand": "Carrefour",
+  "country": "ES",
+  "categories": [
+   "13.49"
+  ],
+  "file": "giftcards/sochitel/1157-carrefour.png",
+  "sourceBrand": "Carrefour"
+ },
+ {
+  "operatorId": "1158",
+  "name": "Spain Decathlon",
+  "brand": "Decathlon",
+  "country": "ES",
+  "categories": [
+   "13.15"
+  ],
+  "file": "giftcards/sochitel/1158-decathlon.png",
+  "sourceBrand": "Decathlon"
+ },
+ {
+  "operatorId": "1161",
+  "name": "Spain Inspire Travel",
+  "brand": "Inspire Travel",
+  "country": "ES",
+  "categories": [
+   "13.17"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1163",
+  "name": "Spain Nintendo",
+  "brand": "Nintendo",
+  "country": "ES",
+  "categories": [
+   "13.26"
+  ],
+  "file": "giftcards/sochitel/1163-nintendo.png",
+  "sourceBrand": "Nintendo"
+ },
+ {
+  "operatorId": "1164",
+  "name": "Spain Primark",
+  "brand": "Primark",
+  "country": "ES",
+  "categories": [
+   "13.24"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1165",
+  "name": "Spain Rituals",
+  "brand": "Rituals Portugal",
+  "country": "ES",
+  "categories": [
+   "13.52"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1167",
+  "name": "Spain TripGift",
+  "brand": "TripGift",
+  "country": "ES",
+  "categories": [
+   "13.17"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1171",
+  "name": "Spain IKEA",
+  "brand": "IKEA",
+  "country": "ES",
+  "categories": [
+   "13.11"
+  ],
+  "file": "giftcards/sochitel/1171-ikea.png",
+  "sourceBrand": "IKEA"
+ },
+ {
+  "operatorId": "1172",
+  "name": "Spain MediaMarkt",
+  "brand": "Media Markt",
+  "country": "ES",
+  "categories": [
+   "13.6"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1173",
+  "name": "Spain Nike",
+  "brand": "Nike",
+  "country": "ES",
+  "categories": [
+   "13.3"
+  ],
+  "file": "giftcards/sochitel/1173-nike.png",
+  "sourceBrand": "Nike"
+ },
+ {
+  "operatorId": "1174",
+  "name": "Slovenia Nike",
+  "brand": "Nike",
+  "country": "SI",
+  "categories": [
+   "13.3"
+  ],
+  "file": "giftcards/sochitel/1174-nike.png",
+  "sourceBrand": "Nike"
+ },
+ {
+  "operatorId": "1175",
+  "name": "Slovenia Primark",
+  "brand": "Primark",
+  "country": "SI",
+  "categories": [
+   "13.3"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1177",
+  "name": "Singapore Best Denki",
+  "brand": "Best Denki",
+  "country": "SG",
+  "categories": [
+   "13.6"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1178",
+  "name": "Singapore Cold Storage",
+  "brand": "Cold Storage",
+  "country": "SG",
+  "categories": [
+   "13.49"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1179",
+  "name": "Singapore Dairy Farm Group",
+  "brand": "",
+  "country": "SG",
+  "categories": [
+   "13.49"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1180",
+  "name": "Singapore Giant",
+  "brand": "Giant",
+  "country": "SG",
+  "categories": [
+   "13.49"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1181",
+  "name": "Singapore Grab",
+  "brand": "Grab",
+  "country": "SG",
+  "categories": [
+   "13.17"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1183",
+  "name": "Singapore Zalora",
+  "brand": "Zalora",
+  "country": "SG",
+  "categories": [
+   "13.24"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1184",
+  "name": "Saudi Arabia Apple App Store",
+  "brand": "App Store & Itunes",
+  "country": "SA",
+  "categories": [
+   "13.6"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1203",
+  "name": "Portugal IKEA",
+  "brand": "IKEA",
+  "country": "PT",
+  "categories": [
+   "13.11"
+  ],
+  "file": "giftcards/sochitel/1203-ikea.png",
+  "sourceBrand": "IKEA"
+ },
+ {
+  "operatorId": "1204",
+  "name": "Portugal Mango",
+  "brand": "MANGO",
+  "country": "PT",
+  "categories": [
+   "13.24"
+  ],
+  "file": "giftcards/sochitel/1204-mango.png",
+  "sourceBrand": "Mango"
+ },
+ {
+  "operatorId": "1206",
+  "name": "Portugal Media Markt",
+  "brand": "Media Markt",
+  "country": "PT",
+  "categories": [
+   "13.6"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1208",
+  "name": "Portugal Nike",
+  "brand": "Nike",
+  "country": "PT",
+  "categories": [
+   "13.3"
+  ],
+  "file": "giftcards/sochitel/1208-nike.png",
+  "sourceBrand": "Nike"
+ },
+ {
+  "operatorId": "1209",
+  "name": "Portugal Primark",
+  "brand": "Primark",
+  "country": "PT",
+  "categories": [
+   "13.3"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1211",
+  "name": "Portugal TripGift",
+  "brand": "TripGift",
+  "country": "PT",
+  "categories": [
+   "13.17"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1212",
+  "name": "Poland Allegro",
+  "brand": "Allegro",
+  "country": "PL",
+  "categories": [
+   "13.6"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1218",
+  "name": "Poland Zalando",
+  "brand": "Zalando",
+  "country": "PL",
+  "categories": [
+   "13.3"
+  ],
+  "file": "giftcards/sochitel/1218-zalando.png",
+  "sourceBrand": "Zalando"
+ },
+ {
+  "operatorId": "1221",
+  "name": "Philippines Chris Sports",
+  "brand": "Chris Sports",
+  "country": "PH",
+  "categories": [
+   "13.15"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1224",
+  "name": "Philippines TGI Friday's",
+  "brand": "TGI Friday's",
+  "country": "PH",
+  "categories": [
+   "13.9",
+   "13.25"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1225",
+  "name": "Philippines Zalora",
+  "brand": "Zalora",
+  "country": "PH",
+  "categories": [
+   "13.24"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1232",
+  "name": "Belgium Zalando",
+  "brand": "Zalando",
+  "country": "BE",
+  "categories": [
+   "13.24"
+  ],
+  "file": "giftcards/sochitel/1232-zalando.png",
+  "sourceBrand": "Zalando"
+ },
+ {
+  "operatorId": "1234",
+  "name": "Belgium MediaMarkt",
+  "brand": "Media Markt",
+  "country": "BE",
+  "categories": [
+   "13.23",
+   "13.42"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1235",
+  "name": "Belgium Nike",
+  "brand": "Nike",
+  "country": "BE",
+  "categories": [
+   "13.3"
+  ],
+  "file": "giftcards/sochitel/1235-nike.png",
+  "sourceBrand": "Nike"
+ },
+ {
+  "operatorId": "1236",
+  "name": "Netherlands Inspire Travel",
+  "brand": "Inspire Travel",
+  "country": "NL",
+  "categories": [
+   "13.17"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1237",
+  "name": "Netherlands MANGO",
+  "brand": "MANGO",
+  "country": "NL",
+  "categories": [
+   "13.24"
+  ],
+  "file": "giftcards/sochitel/1237-mango.png",
+  "sourceBrand": "Mango"
+ },
+ {
+  "operatorId": "1238",
+  "name": "Netherlands Nelly.com",
+  "brand": "Nelly.com",
+  "country": "NL",
+  "categories": [
+   "13.24"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1239",
+  "name": "Netherlands Primark",
+  "brand": "Primark",
+  "country": "NL",
+  "categories": [
+   "13.3"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1240",
+  "name": "Netherlands TripGift",
+  "brand": "TripGift",
+  "country": "NL",
+  "categories": [
+   "13.17"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1241",
+  "name": "Netherlands Wehkamp",
+  "brand": "Wehkamp Cadeaukaart",
+  "country": "NL",
+  "categories": [
+   "13.6"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1243",
+  "name": "Netherlands FORZIERI",
+  "brand": "FORZIERI",
+  "country": "NL",
+  "categories": [
+   "13.6"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1245",
+  "name": "Netherlands Nike",
+  "brand": "Nike",
+  "country": "NL",
+  "categories": [
+   "13.3"
+  ],
+  "file": "giftcards/sochitel/1245-nike.png",
+  "sourceBrand": "Nike"
+ },
+ {
+  "operatorId": "1253",
+  "name": "Luxembourg Amazon",
+  "brand": "Amazon",
+  "country": "LU",
+  "categories": [
+   "13.6"
+  ],
+  "file": "giftcards/sochitel/1253-amazon.png",
+  "sourceBrand": "Amazon"
+ },
+ {
+  "operatorId": "1255",
+  "name": "Kuwait Deliveroo",
+  "brand": "Deliveroo",
+  "country": "KW",
+  "categories": [
+   "13.25",
+   "13.9"
+  ],
+  "file": "giftcards/sochitel/1255-deliveroo.png",
+  "sourceBrand": "Deliveroo"
+ },
+ {
+  "operatorId": "1257",
+  "name": "Italy Asos",
+  "brand": "Asos",
+  "country": "IT",
+  "categories": [
+   "13.24"
+  ],
+  "file": "giftcards/sochitel/1257-asos.png",
+  "sourceBrand": "ASOS"
+ },
+ {
+  "operatorId": "1258",
+  "name": "Italy Decathlon",
+  "brand": "Decathlon",
+  "country": "IT",
+  "categories": [
+   "13.15"
+  ],
+  "file": "giftcards/sochitel/1258-decathlon.png",
+  "sourceBrand": "Decathlon"
+ },
+ {
+  "operatorId": "1259",
+  "name": "Italy Deliveroo",
+  "brand": "Deliveroo",
+  "country": "IT",
+  "categories": [
+   "13.9"
+  ],
+  "file": "giftcards/sochitel/1259-deliveroo.png",
+  "sourceBrand": "Deliveroo"
+ },
+ {
+  "operatorId": "1260",
+  "name": "Italy FlixBus",
+  "brand": "FlixBus",
+  "country": "IT",
+  "categories": [
+   "13.17"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1261",
+  "name": "Italy Gamestop",
+  "brand": "Gamestop",
+  "country": "IT",
+  "categories": [
+   "13.7"
+  ],
+  "file": "giftcards/sochitel/1261-gamestop.png",
+  "sourceBrand": "GameStop"
+ },
+ {
+  "operatorId": "1262",
+  "name": "Italy Hotelgift",
+  "brand": "Hotelgift",
+  "country": "IT",
+  "categories": [
+   "13.53"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1263",
+  "name": "Italy Inspire Travel",
+  "brand": "Inspire Travel",
+  "country": "IT",
+  "categories": [
+   "13.17"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1264",
+  "name": "Italy la Feltrinelli",
+  "brand": "la Feltrinelli",
+  "country": "IT",
+  "categories": [
+   "13.47"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1265",
+  "name": "Italy MANGO",
+  "brand": "MANGO",
+  "country": "IT",
+  "categories": [
+   "13.24"
+  ],
+  "file": "giftcards/sochitel/1265-mango.png",
+  "sourceBrand": "Mango"
+ },
+ {
+  "operatorId": "1267",
+  "name": "Italy Primark",
+  "brand": "Primark",
+  "country": "IT",
+  "categories": [
+   "13.3",
+   "13.5"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1269",
+  "name": "Italy TripGift",
+  "brand": "TripGift",
+  "country": "IT",
+  "categories": [
+   "13.17"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1285",
+  "name": "Canada DoorDash",
+  "brand": "Doordash",
+  "country": "CA",
+  "categories": [
+   "13.9"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1287",
+  "name": "Canada Hotels.com",
+  "brand": "Hotels.com",
+  "country": "CA",
+  "categories": [
+   "13.53"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1290",
+  "name": "Canada Uber Eats",
+  "brand": "Uber eats",
+  "country": "CA",
+  "categories": [
+   "13.25"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1291",
+  "name": "Canada Walmart",
+  "brand": "Wallmart",
+  "country": "CA",
+  "categories": [
+   "13.6"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1292",
+  "name": "Canada Winners",
+  "brand": "Winners",
+  "country": "CA",
+  "categories": [
+   "13.47"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1296",
+  "name": "Canada Ardene",
+  "brand": "Ardene",
+  "country": "CA",
+  "categories": [
+   "13.24"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1297",
+  "name": "Canada Banana Republic",
+  "brand": "Banana Republic",
+  "country": "CA",
+  "categories": [
+   "13.24"
+  ],
+  "file": "giftcards/sochitel/1297-banana-republic.png",
+  "sourceBrand": "Banana Republic"
+ },
+ {
+  "operatorId": "1299",
+  "name": "Canada Best Buy",
+  "brand": "Best Buy",
+  "country": "CA",
+  "categories": [
+   "13.6"
+  ],
+  "file": "giftcards/sochitel/1299-best-buy.png",
+  "sourceBrand": "Best Buy"
+ },
+ {
+  "operatorId": "1301",
+  "name": "Canada Boston Pizza",
+  "brand": "Boston Market",
+  "country": "CA",
+  "categories": [
+   "13.9",
+   "13.25"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1306",
+  "name": "Canada Nintendo",
+  "brand": "Nintendo",
+  "country": "CA",
+  "categories": [
+   "13.26"
+  ],
+  "file": "giftcards/sochitel/1306-nintendo.png",
+  "sourceBrand": "Nintendo"
+ },
+ {
+  "operatorId": "1307",
+  "name": "Canada PlayStation Store",
+  "brand": "PlayStation",
+  "country": "CA",
+  "categories": [
+   "13.26"
+  ],
+  "file": "giftcards/sochitel/1307-playstation.png",
+  "sourceBrand": "PlayStation"
+ },
+ {
+  "operatorId": "1310",
+  "name": "Canada Uber",
+  "brand": "Uber",
+  "country": "CA",
+  "categories": [
+   "13.16"
+  ],
+  "file": "giftcards/sochitel/1310-uber.png",
+  "sourceBrand": "Uber"
+ },
+ {
+  "operatorId": "1313",
+  "name": "Canada Xbox Game Pass",
+  "brand": "Xbox",
+  "country": "CA",
+  "categories": [
+   "13.26",
+   "13.47"
+  ],
+  "file": "giftcards/sochitel/1313-xbox.png",
+  "sourceBrand": "Xbox"
+ },
+ {
+  "operatorId": "1315",
+  "name": "Ireland Adidas",
+  "brand": "Addidas",
+  "country": "IE",
+  "categories": [
+   "13.3"
+  ],
+  "file": "giftcards/sochitel/1315-addidas.png",
+  "sourceBrand": "Adidas"
+ },
+ {
+  "operatorId": "1317",
+  "name": "Ireland Halfords",
+  "brand": "Halfords",
+  "country": "IE",
+  "categories": [
+   "13.18"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1320",
+  "name": "Ireland Nike",
+  "brand": "Nike",
+  "country": "IE",
+  "categories": [
+   "13.3"
+  ],
+  "file": "giftcards/sochitel/1320-nike.png",
+  "sourceBrand": "Nike"
+ },
+ {
+  "operatorId": "1322",
+  "name": "Ireland TripGift",
+  "brand": "TripGift",
+  "country": "IE",
+  "categories": [
+   "13.17"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1324",
+  "name": "Italy Volagratis",
+  "brand": "Volagratis",
+  "country": "IT",
+  "categories": [
+   "13.47"
+  ],
+  "file": "giftcards/sochitel/1324-volagratis.png",
+  "sourceBrand": "Volagratis"
+ },
+ {
+  "operatorId": "1325",
+  "name": "Italy Zalando",
+  "brand": "Zalando",
+  "country": "IT",
+  "categories": [
+   "13.24"
+  ],
+  "file": "giftcards/sochitel/1325-zalando.png",
+  "sourceBrand": "Zalando"
+ },
+ {
+  "operatorId": "1326",
+  "name": "Italy Amazon",
+  "brand": "Amazon",
+  "country": "IT",
+  "categories": [
+   "13.6"
+  ],
+  "file": "giftcards/sochitel/1326-amazon.png",
+  "sourceBrand": "Amazon"
+ },
+ {
+  "operatorId": "1328",
+  "name": "Italy Carrefour",
+  "brand": "Carrefour",
+  "country": "IT",
+  "categories": [
+   "13.49"
+  ],
+  "file": "giftcards/sochitel/1328-carrefour.png",
+  "sourceBrand": "Carrefour"
+ },
+ {
+  "operatorId": "1329",
+  "name": "Italy Esselunga",
+  "brand": "Esselunga",
+  "country": "IT",
+  "categories": [
+   "13.49"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1330",
+  "name": "Italy Mondadori",
+  "brand": "Mondadori",
+  "country": "IT",
+  "categories": [
+   "13.6"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1331",
+  "name": "Italy Nike",
+  "brand": "Nike",
+  "country": "IT",
+  "categories": [
+   "13.3"
+  ],
+  "file": "giftcards/sochitel/1331-nike.png",
+  "sourceBrand": "Nike"
+ },
+ {
+  "operatorId": "1332",
+  "name": "Italy OVS",
+  "brand": "OVS",
+  "country": "IT",
+  "categories": [
+   "13.47"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1333",
+  "name": "Italy Q8",
+  "brand": "Q8",
+  "country": "IT",
+  "categories": [
+   "13.43"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1341",
+  "name": "India Flipkart",
+  "brand": "Flipkart Gift Card",
+  "country": "IN",
+  "categories": [
+   "13.6"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1345",
+  "name": "India Westside",
+  "brand": "Westside",
+  "country": "IN",
+  "categories": [
+   "13.47"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1347",
+  "name": "Greece Nike",
+  "brand": "Nike",
+  "country": "GR",
+  "categories": [
+   "13.3"
+  ],
+  "file": "giftcards/sochitel/1347-nike.png",
+  "sourceBrand": "Nike"
+ },
+ {
+  "operatorId": "1348",
+  "name": "Germany Adidas",
+  "brand": "Addidas",
+  "country": "DE",
+  "categories": [
+   "13.3"
+  ],
+  "file": "giftcards/sochitel/1348-addidas.png",
+  "sourceBrand": "Adidas"
+ },
+ {
+  "operatorId": "1349",
+  "name": "Germany Asos",
+  "brand": "Asos",
+  "country": "DE",
+  "categories": [
+   "13.3"
+  ],
+  "file": "giftcards/sochitel/1349-asos.png",
+  "sourceBrand": "ASOS"
+ },
+ {
+  "operatorId": "1352",
+  "name": "Germany Cyberport",
+  "brand": "Cyberport",
+  "country": "DE",
+  "categories": [
+   "13.23",
+   "13.42"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1353",
+  "name": "Germany FlixBus",
+  "brand": "FlixBus",
+  "country": "DE",
+  "categories": [
+   "13.17"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1356",
+  "name": "Germany Inspire Travel",
+  "brand": "Inspire Travel",
+  "country": "DE",
+  "categories": [
+   "13.17"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1357",
+  "name": "Germany lastminute.com",
+  "brand": "Lastminute.com",
+  "country": "DE",
+  "categories": [
+   "13.17"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1358",
+  "name": "Germany Mango",
+  "brand": "MANGO",
+  "country": "DE",
+  "categories": [
+   "13.24"
+  ],
+  "file": "giftcards/sochitel/1358-mango.png",
+  "sourceBrand": "Mango"
+ },
+ {
+  "operatorId": "1360",
+  "name": "Germany Nelly.com",
+  "brand": "Nelly.com",
+  "country": "DE",
+  "categories": [
+   "13.6"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1361",
+  "name": "Germany Primark",
+  "brand": "Primark",
+  "country": "DE",
+  "categories": [
+   "13.3"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1362",
+  "name": "Germany Saturn",
+  "brand": "Saturn",
+  "country": "DE",
+  "categories": [
+   "13.23"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1363",
+  "name": "Germany Swarovski",
+  "brand": "Swarovski",
+  "country": "DE",
+  "categories": [
+   "13.24"
+  ],
+  "file": "giftcards/sochitel/1363-swarovski.png",
+  "sourceBrand": "Swarovski"
+ },
+ {
+  "operatorId": "1364",
+  "name": "Germany TripGift",
+  "brand": "TripGift",
+  "country": "DE",
+  "categories": [
+   "13.17"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1365",
+  "name": "Germany Amazon",
+  "brand": "Amazon",
+  "country": "DE",
+  "categories": [
+   "13.6"
+  ],
+  "file": "giftcards/sochitel/1365-amazon.png",
+  "sourceBrand": "Amazon"
+ },
+ {
+  "operatorId": "1366",
+  "name": "Germany Cineplex",
+  "brand": "Cineplex",
+  "country": "DE",
+  "categories": [
+   "13.13"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1367",
+  "name": "Germany Decathlon",
+  "brand": "Decathlon",
+  "country": "DE",
+  "categories": [
+   "13.15"
+  ],
+  "file": "giftcards/sochitel/1367-decathlon.png",
+  "sourceBrand": "Decathlon"
+ },
+ {
+  "operatorId": "1368",
+  "name": "Germany FORZIERI",
+  "brand": "FORZIERI",
+  "country": "DE",
+  "categories": [
+   "13.24"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1370",
+  "name": "Germany MediaMarkt",
+  "brand": "Media Markt",
+  "country": "DE",
+  "categories": [
+   "13.5"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1371",
+  "name": "Germany Nike",
+  "brand": "Nike",
+  "country": "DE",
+  "categories": [
+   "13.3"
+  ],
+  "file": "giftcards/sochitel/1371-nike.png",
+  "sourceBrand": "Nike"
+ },
+ {
+  "operatorId": "1372",
+  "name": "Germany TK Maxx",
+  "brand": "TKMAXX",
+  "country": "DE",
+  "categories": [
+   "13.3"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1373",
+  "name": "Germany Zooplus",
+  "brand": "zooplus.de",
+  "country": "DE",
+  "categories": [
+   "13.6"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1374",
+  "name": "France Adidas",
+  "brand": "Addidas",
+  "country": "FR",
+  "categories": [
+   "13.3"
+  ],
+  "file": "giftcards/sochitel/1374-addidas.png",
+  "sourceBrand": "Adidas"
+ },
+ {
+  "operatorId": "1375",
+  "name": "France Asos",
+  "brand": "Asos",
+  "country": "FR",
+  "categories": [
+   "13.3"
+  ],
+  "file": "giftcards/sochitel/1375-asos.png",
+  "sourceBrand": "ASOS"
+ },
+ {
+  "operatorId": "1379",
+  "name": "France MANGO",
+  "brand": "MANGO",
+  "country": "FR",
+  "categories": [
+   "13.24"
+  ],
+  "file": "giftcards/sochitel/1379-mango.png",
+  "sourceBrand": "Mango"
+ },
+ {
+  "operatorId": "1380",
+  "name": "France MATY",
+  "brand": "MATY",
+  "country": "FR",
+  "categories": [
+   "13.24"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1381",
+  "name": "France Nelly.com",
+  "brand": "Nelly.com",
+  "country": "FR",
+  "categories": [
+   "13.6"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1382",
+  "name": "France Primark",
+  "brand": "Primark",
+  "country": "FR",
+  "categories": [
+   "13.3"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1383",
+  "name": "France Swarovski",
+  "brand": "Swarovski",
+  "country": "FR",
+  "categories": [
+   "13.24"
+  ],
+  "file": "giftcards/sochitel/1383-swarovski.png",
+  "sourceBrand": "Swarovski"
+ },
+ {
+  "operatorId": "1384",
+  "name": "France TripGift",
+  "brand": "TripGift",
+  "country": "FR",
+  "categories": [
+   "13.17"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1385",
+  "name": "France Truffaut",
+  "brand": "Truffaut",
+  "country": "FR",
+  "categories": [
+   "13.32"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1386",
+  "name": "France Wonderbox",
+  "brand": "Wonderbox",
+  "country": "FR",
+  "categories": [
+   "13.15"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1387",
+  "name": "France Amazon",
+  "brand": "Amazon",
+  "country": "FR",
+  "categories": [
+   "13.6"
+  ],
+  "file": "giftcards/sochitel/1387-amazon.png",
+  "sourceBrand": "Amazon"
+ },
+ {
+  "operatorId": "1388",
+  "name": "France Carrefour",
+  "brand": "Carrefour",
+  "country": "FR",
+  "categories": [
+   "13.49"
+  ],
+  "file": "giftcards/sochitel/1388-carrefour.png",
+  "sourceBrand": "Carrefour"
+ },
+ {
+  "operatorId": "1389",
+  "name": "France Decathlon",
+  "brand": "Decathlon",
+  "country": "FR",
+  "categories": [
+   "13.3"
+  ],
+  "file": "giftcards/sochitel/1389-decathlon.png",
+  "sourceBrand": "Decathlon"
+ },
+ {
+  "operatorId": "1391",
+  "name": "France Nike",
+  "brand": "Nike",
+  "country": "FR",
+  "categories": [
+   "13.3"
+  ],
+  "file": "giftcards/sochitel/1391-nike.png",
+  "sourceBrand": "Nike"
+ },
+ {
+  "operatorId": "1399",
+  "name": "Egypt LamsaWorld",
+  "brand": "LamsaWorld",
+  "country": "EG",
+  "categories": [
+   "13.13"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1415",
+  "name": "Kenya Cake City",
+  "brand": "Cake City",
+  "country": "KE",
+  "categories": [
+   "13.25"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1416",
+  "name": "Kenya Adele Dejak",
+  "brand": "Adele Dejak",
+  "country": "KE",
+  "categories": [
+   "13.24"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1419",
+  "name": "Kenya Beauty Click",
+  "brand": "Beauty Click",
+  "country": "KE",
+  "categories": [
+   "13.51"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1422",
+  "name": "Kenya Dapper Monkey",
+  "brand": "Dapper Monkey",
+  "country": "KE",
+  "categories": [
+   "13.24"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1426",
+  "name": "Kenya His & Her Scents",
+  "brand": "His & Her Scents",
+  "country": "KE",
+  "categories": [
+   "13.52"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1431",
+  "name": "Kenya Outdoors Tours & Travel",
+  "brand": "Outdoors Tours and Travel",
+  "country": "KE",
+  "categories": [
+   "13.17"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1434",
+  "name": "Kenya Naivas",
+  "brand": "Naivas",
+  "country": "KE",
+  "categories": [
+   "13.49"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1436",
+  "name": "Kenya Parisland",
+  "brand": "Parisland",
+  "country": "KE",
+  "categories": [
+   "13.11"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1439",
+  "name": "Kenya Pierre Cardin",
+  "brand": "Pierre Cardin",
+  "country": "KE",
+  "categories": [
+   "13.24"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1444",
+  "name": "Kenya Suregift",
+  "brand": "Suregifts",
+  "country": "KE",
+  "categories": [
+   "13.45"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1445",
+  "name": "Kenya Thirsty Oak",
+  "brand": "Thirsty Oak",
+  "country": "KE",
+  "categories": [
+   "13.9"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1446",
+  "name": "Kenya Tiquea Bou Clothing",
+  "brand": "Tiquea Bou Clothing",
+  "country": "KE",
+  "categories": [
+   "13.24"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1448",
+  "name": "Kenya Turn Up Travels",
+  "brand": "Turn Up Travels",
+  "country": "KE",
+  "categories": [
+   "13.17"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1449",
+  "name": "Kenya Urban Textiles",
+  "brand": "Urban Textiles",
+  "country": "KE",
+  "categories": [
+   "13.24"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1454",
+  "name": "Nigeria Slice of heaven",
+  "brand": "",
+  "country": "NG",
+  "categories": [
+   "13.9"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1455",
+  "name": "Nigeria Fancy Soles",
+  "brand": "Fancy Soles",
+  "country": "NG",
+  "categories": [
+   "13.24"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1509",
+  "name": "South Africa Microsoft",
+  "brand": "Microsoft",
+  "country": "ZA",
+  "categories": [
+   "13.36"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1550",
+  "name": "Germany Airbnb",
+  "brand": "Airbnb",
+  "country": "DE",
+  "categories": [
+   "13.55"
+  ],
+  "file": "giftcards/sochitel/1550-airbnb.png",
+  "sourceBrand": "Airbnb"
+ },
+ {
+  "operatorId": "1552",
+  "name": "Spain Airbnb",
+  "brand": "Airbnb",
+  "country": "ES",
+  "categories": [
+   "13.11"
+  ],
+  "file": "giftcards/sochitel/1552-airbnb.png",
+  "sourceBrand": "Airbnb"
+ },
+ {
+  "operatorId": "1558",
+  "name": "UK Airbnb",
+  "brand": "Airbnb",
+  "country": "GB",
+  "categories": [
+   "13.11"
+  ],
+  "file": "giftcards/sochitel/1558-airbnb.png",
+  "sourceBrand": "Airbnb"
+ },
+ {
+  "operatorId": "1560",
+  "name": "UK Cafe Rouge",
+  "brand": "Café Rouge",
+  "country": "GB",
+  "categories": [
+   "13.9"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1562",
+  "name": "USA NBAStore.com",
+  "brand": "NBAStore.com",
+  "country": "US",
+  "categories": [
+   "13.3"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1564",
+  "name": "Singapore Robinsons",
+  "brand": "Robinsons",
+  "country": "SG",
+  "categories": [
+   "13.6"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1566",
+  "name": "Singapore Sephora",
+  "brand": "Sephora",
+  "country": "SG",
+  "categories": [
+   "13.1"
+  ],
+  "file": "giftcards/sochitel/1566-sephora.png",
+  "sourceBrand": "Sephora"
+ },
+ {
+  "operatorId": "1580",
+  "name": "USA Apple",
+  "brand": "App Store & Itunes",
+  "country": "US",
+  "categories": [
+   "13.6"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1602",
+  "name": "Kenya Carrefour",
+  "brand": "Carrefour",
+  "country": "KE",
+  "categories": [
+   "13.49"
+  ],
+  "file": "giftcards/sochitel/1602-carrefour.png",
+  "sourceBrand": "Carrefour"
+ },
+ {
+  "operatorId": "1650",
+  "name": "UK Arsenal FC",
+  "brand": "Arsenal FC",
+  "country": "GB",
+  "categories": [
+   "13.15"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1662",
+  "name": "Italy Foot Locker",
+  "brand": "Foot Locker",
+  "country": "IT",
+  "categories": [
+   "13.24"
+  ],
+  "file": "giftcards/sochitel/1662-foot-locker.png",
+  "sourceBrand": "Foot Locker"
+ },
+ {
+  "operatorId": "1668",
+  "name": "Spain Foot Locker",
+  "brand": "Foot Locker",
+  "country": "ES",
+  "categories": [
+   "13.24"
+  ],
+  "file": "giftcards/sochitel/1668-foot-locker.png",
+  "sourceBrand": "Foot Locker"
+ },
+ {
+  "operatorId": "1670",
+  "name": "UK Harvey Nichols",
+  "brand": "Harvey Nichols",
+  "country": "GB",
+  "categories": [
+   "13.5"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1680",
+  "name": "Ireland Zalando",
+  "brand": "Zalando",
+  "country": "IE",
+  "categories": [
+   "13.24"
+  ],
+  "file": "giftcards/sochitel/1680-zalando.png",
+  "sourceBrand": "Zalando"
+ },
+ {
+  "operatorId": "1684",
+  "name": "UK Apple",
+  "brand": "App Store & Itunes",
+  "country": "GB",
+  "categories": [
+   "13.6"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1686",
+  "name": "Canada Apple",
+  "brand": "App Store & Itunes",
+  "country": "CA",
+  "categories": [
+   "13.6"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1688",
+  "name": "France Apple",
+  "brand": "App Store & Itunes",
+  "country": "FR",
+  "categories": [
+   "13.6"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1694",
+  "name": "Italy Apple",
+  "brand": "App Store & Itunes",
+  "country": "IT",
+  "categories": [
+   "13.6"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1708",
+  "name": "UAE Google Play",
+  "brand": "Google Play",
+  "country": "AE",
+  "categories": [
+   "13.7"
+  ],
+  "file": "giftcards/sochitel/1708-google-play.png",
+  "sourceBrand": "Google play"
+ },
+ {
+  "operatorId": "1712",
+  "name": "Austria Ticketmaster",
+  "brand": "Ticketmaster",
+  "country": "AT",
+  "categories": [
+   "13.13"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1714",
+  "name": "Australia Ticketmaster",
+  "brand": "Ticketmaster",
+  "country": "AU",
+  "categories": [
+   "13.13"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1716",
+  "name": "Belgium Ticketmaster",
+  "brand": "Ticketmaster",
+  "country": "BE",
+  "categories": [
+   "13.13"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1718",
+  "name": "Germany Ticketmaster",
+  "brand": "Ticketmaster",
+  "country": "DE",
+  "categories": [
+   "13.13"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1720",
+  "name": "Spain Ticketmaster",
+  "brand": "Ticketmaster",
+  "country": "ES",
+  "categories": [
+   "13.13"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1724",
+  "name": "Ireland Ticketmaster",
+  "brand": "Ticketmaster",
+  "country": "IE",
+  "categories": [
+   "13.13"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1726",
+  "name": "Netherlands Ticketmaster",
+  "brand": "Ticketmaster",
+  "country": "NL",
+  "categories": [
+   "13.13"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1728",
+  "name": "Poland Ticketmaster",
+  "brand": "Ticketmaster",
+  "country": "PL",
+  "categories": [
+   "13.13"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1730",
+  "name": "Sweden Ticketmaster",
+  "brand": "Ticketmaster",
+  "country": "SE",
+  "categories": [
+   "13.13"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1732",
+  "name": "UK Ticketmaster",
+  "brand": "Ticketmaster",
+  "country": "GB",
+  "categories": [
+   "13.13"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1734",
+  "name": "France Ticketmaster",
+  "brand": "Ticketmaster",
+  "country": "FR",
+  "categories": [
+   "13.13"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1736",
+  "name": "Singapore Challenger",
+  "brand": "Challenger",
+  "country": "SG",
+  "categories": [
+   "13.6"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1740",
+  "name": "USA Amtrak",
+  "brand": "Amtrak",
+  "country": "US",
+  "categories": [
+   "13.17"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1742",
+  "name": "UK AirlineGift",
+  "brand": "AirlineGift",
+  "country": "GB",
+  "categories": [
+   "13.55"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1746",
+  "name": "UK Bloom & Wild",
+  "brand": "Bloom & wild",
+  "country": "GB",
+  "categories": [
+   "13.29"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1748",
+  "name": "UK Bella Italia",
+  "brand": "Bella Italia",
+  "country": "GB",
+  "categories": [
+   "13.25"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1750",
+  "name": "UK Browns (Brasserie)",
+  "brand": "Browns (Brasserie)",
+  "country": "GB",
+  "categories": [
+   "13.25"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1756",
+  "name": "UK Caffe Nero",
+  "brand": "Caffe Nero",
+  "country": "GB",
+  "categories": [
+   "13.25"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1758",
+  "name": "UK Daymade",
+  "brand": "Daymade",
+  "country": "GB",
+  "categories": [
+   "13.17"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1760",
+  "name": "UK DigiiGifts",
+  "brand": "DigiiGifts",
+  "country": "GB",
+  "categories": [
+   "13.9"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1762",
+  "name": "UK FlyStayGift",
+  "brand": "FlystayGift",
+  "country": "GB",
+  "categories": [
+   "13.17"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1768",
+  "name": "UK Greene King",
+  "brand": "Greene King",
+  "country": "GB",
+  "categories": [
+   "13.25"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1770",
+  "name": "USA PUBG Mobile",
+  "brand": "PUBG Mobile UC",
+  "country": "US",
+  "categories": [
+   "13.26"
+  ],
+  "file": "giftcards/sochitel/1770-pubg-mobile-uc.png",
+  "sourceBrand": "PUBG"
+ },
+ {
+  "operatorId": "1772",
+  "name": "UK Harvester",
+  "brand": "Harvester",
+  "country": "GB",
+  "categories": [
+   "13.25"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1776",
+  "name": "UK Iceland",
+  "brand": "Iceland",
+  "country": "GB",
+  "categories": [
+   "13.27"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1778",
+  "name": "UK Inspire Staycation",
+  "brand": "Inspire Travel",
+  "country": "GB",
+  "categories": [
+   "13.17"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1780",
+  "name": "UK You Choose All Access",
+  "brand": "You Choose Food & Drink Digital",
+  "country": "GB",
+  "categories": [
+   "13.6"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1782",
+  "name": "UK You Choose Experiences",
+  "brand": "You Choose Food & Drink Digital",
+  "country": "GB",
+  "categories": [
+   "13.6"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1784",
+  "name": "UK You Choose Fashion & Beauty",
+  "brand": "You Choose Food & Drink Digital",
+  "country": "GB",
+  "categories": [
+   "13.3"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1786",
+  "name": "UK You Choose Food & Drink Digital",
+  "brand": "You Choose Food & Drink Digital",
+  "country": "GB",
+  "categories": [
+   "13.9"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1788",
+  "name": "UK Lavish Spa & Beauty",
+  "brand": "Lavish Spa & Beauty",
+  "country": "GB",
+  "categories": [
+   "13.1"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1790",
+  "name": "UK Loch Fyne",
+  "brand": "Loch Fyne (UK)",
+  "country": "GB",
+  "categories": [
+   "13.9"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1792",
+  "name": "UK Miller and Carter",
+  "brand": "Miller and Carter",
+  "country": "GB",
+  "categories": [
+   "13.9"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1796",
+  "name": "USA FreeFire",
+  "brand": "Freefire",
+  "country": "US",
+  "categories": [
+   "13.26"
+  ],
+  "file": "giftcards/sochitel/1796-freefire.png",
+  "sourceBrand": "Free Fire"
+ },
+ {
+  "operatorId": "1802",
+  "name": "Kuwait Conquerors Golden Age",
+  "brand": "Conquerors Golden Age",
+  "country": "KW",
+  "categories": [
+   "13.26"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1806",
+  "name": "Kenya Quickmart",
+  "brand": "Quickmart",
+  "country": "KE",
+  "categories": [
+   "13.49"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1808",
+  "name": "Kenya Shell",
+  "brand": "Shell",
+  "country": "KE",
+  "categories": [
+   "13.43"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1810",
+  "name": "Kenya Total Energies",
+  "brand": "Total Energies",
+  "country": "KE",
+  "categories": [
+   "13.43"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1812",
+  "name": "Kenya Java House",
+  "brand": "Javahouse",
+  "country": "KE",
+  "categories": [
+   "13.41"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1814",
+  "name": "Kenya Artcaffe",
+  "brand": "Artcaffe",
+  "country": "KE",
+  "categories": [
+   "13.41"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1820",
+  "name": "Kenya LC Waikiki",
+  "brand": "LC Waikiki",
+  "country": "KE",
+  "categories": [
+   "13.47"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1822",
+  "name": "USA Azteco",
+  "brand": "Azteco",
+  "country": "US",
+  "categories": [
+   "13.45"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1824",
+  "name": "Kenya Furniture Palace",
+  "brand": "Furniture Palace",
+  "country": "KE",
+  "categories": [
+   "13.29"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1826",
+  "name": "Kenya Healthy-U",
+  "brand": "Healthy U",
+  "country": "KE",
+  "categories": [
+   "13.46"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1828",
+  "name": "Kenya Magunas",
+  "brand": "Magunas",
+  "country": "KE",
+  "categories": [
+   "13.49"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1830",
+  "name": "Kenya Maathai",
+  "brand": "",
+  "country": "KE",
+  "categories": [
+   "13.49"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1834",
+  "name": "Kenya KFC",
+  "brand": "KFC",
+  "country": "KE",
+  "categories": [
+   "13.25"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1836",
+  "name": "Kenya Hotpoint Appliances",
+  "brand": "Hotpoint Appliances",
+  "country": "KE",
+  "categories": [
+   "13.23"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1838",
+  "name": "Kenya Tamarind",
+  "brand": "Kenya Tamarind",
+  "country": "KE",
+  "categories": [
+   "13.9"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1840",
+  "name": "Kenya Quick Budget",
+  "brand": "",
+  "country": "KE",
+  "categories": [
+   "13.49"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1842",
+  "name": "Kenya Elite Digital Solutions",
+  "brand": "Elite Digital Solutions",
+  "country": "KE",
+  "categories": [
+   "13.23"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1844",
+  "name": "Kenya Green Gold Merchants Holding",
+  "brand": "Green Gold Merchants Holding",
+  "country": "KE",
+  "categories": [
+   "13.49"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1846",
+  "name": "Kenya Shiviling",
+  "brand": "",
+  "country": "KE",
+  "categories": [
+   "13.49"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1850",
+  "name": "Kenya Al Hashimiya",
+  "brand": "Al Hashimiya",
+  "country": "KE",
+  "categories": [
+   "13.49"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1852",
+  "name": "Kenya Seven to Seven",
+  "brand": "Seven to Seven",
+  "country": "KE",
+  "categories": [
+   "13.49"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1854",
+  "name": "Kenya Peshmatt Limited",
+  "brand": "Peshmatt Limited",
+  "country": "KE",
+  "categories": [
+   "13.49"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1856",
+  "name": "Kenya Transmattresses Limited",
+  "brand": "",
+  "country": "KE",
+  "categories": [
+   "13.49"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1858",
+  "name": "Kenya PY",
+  "brand": "",
+  "country": "KE",
+  "categories": [
+   "13.49"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1860",
+  "name": "Kenya 360",
+  "brand": "Kenya360",
+  "country": "KE",
+  "categories": [
+   "13.49"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1862",
+  "name": "Kenya Kukito",
+  "brand": "Kukito Kenya",
+  "country": "KE",
+  "categories": [
+   "13.25"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1864",
+  "name": "Kenya Eastmatt",
+  "brand": "Eastmatt",
+  "country": "KE",
+  "categories": [
+   "13.49"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1866",
+  "name": "Kenya Cleanshelf",
+  "brand": "Cleanshelf",
+  "country": "KE",
+  "categories": [
+   "13.49"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1868",
+  "name": "Kenya Woolworths",
+  "brand": "Woolworths",
+  "country": "KE",
+  "categories": [
+   "13.47"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1870",
+  "name": "Kenya Nairobi Sports House",
+  "brand": "Nairobi Sporthouse",
+  "country": "KE",
+  "categories": [
+   "13.15"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1874",
+  "name": "Kenya Stagematt",
+  "brand": "Stagematt",
+  "country": "KE",
+  "categories": [
+   "13.49"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1878",
+  "name": "Kenya Brilliant Supermarket",
+  "brand": "Brilliant Supermarket",
+  "country": "KE",
+  "categories": [
+   "13.49"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1880",
+  "name": "Kenya Savanis Book Centre",
+  "brand": "Savanis Book Centre",
+  "country": "KE",
+  "categories": [
+   "13.2"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1882",
+  "name": "Kenya Target Supermarket",
+  "brand": "Target Supermarket",
+  "country": "KE",
+  "categories": [
+   "13.49"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1884",
+  "name": "Kenya Jai Hari Supermarket",
+  "brand": "Jai Hari Supermarket",
+  "country": "KE",
+  "categories": [
+   "13.49"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1888",
+  "name": "Kenya Basmart",
+  "brand": "Basmart",
+  "country": "KE",
+  "categories": [
+   "13.49"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1892",
+  "name": "Saudi Arabia Shein",
+  "brand": "SHEIN",
+  "country": "SA",
+  "categories": [
+   "13.24"
+  ],
+  "file": "giftcards/sochitel/1892-shein.png",
+  "sourceBrand": "SHEIN"
+ },
+ {
+  "operatorId": "1896",
+  "name": "USA Netflix",
+  "brand": "Netflix",
+  "country": "US",
+  "categories": [
+   "13.13"
+  ],
+  "file": "giftcards/sochitel/1896-netflix.png",
+  "sourceBrand": "NetFlix"
+ },
+ {
+  "operatorId": "1910",
+  "name": "USA Deezer",
+  "brand": "Deezer",
+  "country": "US",
+  "categories": [
+   "13.33"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1914",
+  "name": "USA PUBG New State",
+  "brand": "PUBG Mobile UC",
+  "country": "US",
+  "categories": [
+   "13.26"
+  ],
+  "file": "giftcards/sochitel/1914-pubg-mobile-uc.png",
+  "sourceBrand": "PUBG"
+ },
+ {
+  "operatorId": "1916",
+  "name": "USA STARZPLAY",
+  "brand": "STARZPLAY",
+  "country": "US",
+  "categories": [
+   "13.13"
+  ],
+  "file": "giftcards/sochitel/1916-starzplay.png",
+  "sourceBrand": "STARZPLAY"
+ },
+ {
+  "operatorId": "1922",
+  "name": "USA Binance",
+  "brand": "Binance",
+  "country": "US",
+  "categories": [
+   "13.45"
+  ],
+  "file": "giftcards/sochitel/1922-binance.png",
+  "sourceBrand": "Binance"
+ },
+ {
+  "operatorId": "1928",
+  "name": "USA Runescape",
+  "brand": "Runescape",
+  "country": "US",
+  "categories": [
+   "13.26"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1934",
+  "name": "USA Mobile Legends",
+  "brand": "Mobile Legends (Razer Gold)",
+  "country": "US",
+  "categories": [
+   "13.0",
+   "2.0"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "1938",
+  "name": "Kuwait Play Station Store",
+  "brand": "PlayStation",
+  "country": "KW",
+  "categories": [
+   "13.26"
+  ],
+  "file": "giftcards/sochitel/1938-playstation.png",
+  "sourceBrand": "PlayStation"
+ },
+ {
+  "operatorId": "1958",
+  "name": "USA Steam",
+  "brand": "Steam",
+  "country": "US",
+  "categories": [
+   "13.26"
+  ],
+  "file": "giftcards/sochitel/1958-steam.png",
+  "sourceBrand": "Steam"
+ },
+ {
+  "operatorId": "2062",
+  "name": "UK Aldi",
+  "brand": "ALDI",
+  "country": "GB",
+  "categories": [
+   "13.47"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2064",
+  "name": "UK Amara",
+  "brand": "",
+  "country": "GB",
+  "categories": [
+   "13.45"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2066",
+  "name": "Cameroon Glotelho",
+  "brand": "Glotelho",
+  "country": "CM",
+  "categories": [
+   "13.6"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2068",
+  "name": "UK B&M",
+  "brand": "B&M",
+  "country": "GB",
+  "categories": [
+   "13.49"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2070",
+  "name": "UK B&Q",
+  "brand": "B&Q",
+  "country": "GB",
+  "categories": [
+   "13.29"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2072",
+  "name": "UK BonMarche",
+  "brand": "BonMarche",
+  "country": "GB",
+  "categories": [
+   "13.24"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2096",
+  "name": "South Africa Boomplay",
+  "brand": "Boomplay",
+  "country": "ZA",
+  "categories": [
+   "13.33"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2098",
+  "name": "USA AirlineGift",
+  "brand": "AirlineGift",
+  "country": "US",
+  "categories": [
+   "13.17"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2212",
+  "name": "UK Chef & Brewer",
+  "brand": "Chef & Brewer (UK)",
+  "country": "GB",
+  "categories": [
+   "13.25"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2214",
+  "name": "UK Cineworld",
+  "brand": "Cineworld",
+  "country": "GB",
+  "categories": [
+   "13.13"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2220",
+  "name": "UK Cotton On",
+  "brand": "Cotton On",
+  "country": "GB",
+  "categories": [
+   "13.24"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2222",
+  "name": "UK Cotton On: Body",
+  "brand": "Cotton On",
+  "country": "GB",
+  "categories": [
+   "13.24"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2228",
+  "name": "UK WHSmith",
+  "brand": "WHsmith",
+  "country": "GB",
+  "categories": [
+   "13.2"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2230",
+  "name": "UK Wayfair",
+  "brand": "Wayfair",
+  "country": "GB",
+  "categories": [
+   "13.44"
+  ],
+  "file": "giftcards/sochitel/2230-wayfair.png",
+  "sourceBrand": "Wayfair"
+ },
+ {
+  "operatorId": "2238",
+  "name": "UK Ember Inns",
+  "brand": "Ember Inns (UK)",
+  "country": "GB",
+  "categories": [
+   "13.25"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2242",
+  "name": "UK Farmfoods",
+  "brand": "Farmfoods (UK)",
+  "country": "GB",
+  "categories": [
+   "13.49"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2250",
+  "name": "UK Flaming Grill",
+  "brand": "Flaming Grill (UK)",
+  "country": "GB",
+  "categories": [
+   "13.25"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2252",
+  "name": "UK Flightgiftcard",
+  "brand": "Flightgiftcard",
+  "country": "GB",
+  "categories": [
+   "13.17"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2254",
+  "name": "UK FootAsylum",
+  "brand": "FootAsylum (UK)",
+  "country": "GB",
+  "categories": [
+   "13.24"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2256",
+  "name": "UK Global Hotel Card",
+  "brand": "Global Hotel Card",
+  "country": "GB",
+  "categories": [
+   "13.53"
+  ],
+  "file": "giftcards/sochitel/2256-global-hotel-card.png",
+  "sourceBrand": "Global Hotel Card"
+ },
+ {
+  "operatorId": "2258",
+  "name": "UK Waterstones",
+  "brand": "Waterstones",
+  "country": "GB",
+  "categories": [
+   "13.54"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2260",
+  "name": "UK Waitrose",
+  "brand": "Waitrose",
+  "country": "GB",
+  "categories": [
+   "13.27",
+   "13.49"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2262",
+  "name": "UK Wacky Warehouse",
+  "brand": "Wacky Warehouse",
+  "country": "GB",
+  "categories": [
+   "13.12"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2264",
+  "name": "UK Virgin Wines",
+  "brand": "Virgin Wines",
+  "country": "GB",
+  "categories": [
+   "13.9",
+   "13.25"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2266",
+  "name": "UK Virgin Gift Card",
+  "brand": "Virgin Gift Card",
+  "country": "GB",
+  "categories": [
+   "13.25",
+   "13.9"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2268",
+  "name": "UK Virgin Experience",
+  "brand": "Virgin Experience",
+  "country": "GB",
+  "categories": [
+   "13.6"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2270",
+  "name": "UK Vintage Inns",
+  "brand": "Vintage Inns",
+  "country": "GB",
+  "categories": [
+   "13.9"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2272",
+  "name": "UK Typo",
+  "brand": "Typo",
+  "country": "GB",
+  "categories": [
+   "13.24"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2274",
+  "name": "UK Twitch",
+  "brand": "Twitch",
+  "country": "GB",
+  "categories": [
+   "13.26"
+  ],
+  "file": "giftcards/sochitel/2274-twitch.png",
+  "sourceBrand": "twitch"
+ },
+ {
+  "operatorId": "2280",
+  "name": "UK Great British Pub Card",
+  "brand": "Great British Pub",
+  "country": "GB",
+  "categories": [
+   "13.9"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2282",
+  "name": "UK Greggs",
+  "brand": "Greggs",
+  "country": "GB",
+  "categories": [
+   "13.25"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2284",
+  "name": "UK Habitat",
+  "brand": "Habitat",
+  "country": "GB",
+  "categories": [
+   "13.29"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2286",
+  "name": "UK HelloFresh",
+  "brand": "Hello Fresh",
+  "country": "GB",
+  "categories": [
+   "13.9"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2288",
+  "name": "UK Hobbycraft",
+  "brand": "Hobbycraft",
+  "country": "GB",
+  "categories": [
+   "13.45"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2290",
+  "name": "UK Hotels.com",
+  "brand": "Hotels.com",
+  "country": "GB",
+  "categories": [
+   "13.53"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2292",
+  "name": "UK Hungry Horse",
+  "brand": "Hungry Horse",
+  "country": "GB",
+  "categories": [
+   "13.25"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2298",
+  "name": "UK Turtle Bay Restaurants",
+  "brand": "Turtle Bay Restaurants",
+  "country": "GB",
+  "categories": [
+   "13.25"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2302",
+  "name": "UK Theatre Tokens",
+  "brand": "Theatre Tokens",
+  "country": "GB",
+  "categories": [
+   "13.13"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2304",
+  "name": "UK The White Company",
+  "brand": "The White Company",
+  "country": "GB",
+  "categories": [
+   "13.29"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2306",
+  "name": "UK The Restaurant Card",
+  "brand": "The Restaurant Card",
+  "country": "GB",
+  "categories": [
+   "13.9"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2308",
+  "name": "UK The Entertainer",
+  "brand": "The Entertainer",
+  "country": "GB",
+  "categories": [
+   "13.12"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2312",
+  "name": "UK Superdry",
+  "brand": "Superdry",
+  "country": "GB",
+  "categories": [
+   "13.24"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2314",
+  "name": "UK Stonehouse",
+  "brand": "Stonehouse",
+  "country": "GB",
+  "categories": [
+   "13.9"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2316",
+  "name": "UK Sports Direct",
+  "brand": "Sports Direct",
+  "country": "GB",
+  "categories": [
+   "13.15"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2318",
+  "name": "UK Spabreaks.com",
+  "brand": "Spabreaks.com",
+  "country": "GB",
+  "categories": [
+   "13.1"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2320",
+  "name": "UK Sizzling Pubs",
+  "brand": "Sizzling Pubs",
+  "country": "GB",
+  "categories": [
+   "13.9"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2322",
+  "name": "UK Selfridges",
+  "brand": "Selfridges & Co",
+  "country": "GB",
+  "categories": [
+   "13.3"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2326",
+  "name": "UK Sainsbury's Groceries (Food Only)",
+  "brand": "Sainsburys",
+  "country": "GB",
+  "categories": [
+   "13.27",
+   "13.25"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2330",
+  "name": "UK IKEA",
+  "brand": "IKEA",
+  "country": "GB",
+  "categories": [
+   "13.11"
+  ],
+  "file": "giftcards/sochitel/2330-ikea.png",
+  "sourceBrand": "IKEA"
+ },
+ {
+  "operatorId": "2332",
+  "name": "UK Innkeeper's Lodge",
+  "brand": "Innkeeper's Lodge (UK)",
+  "country": "GB",
+  "categories": [
+   "13.53"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2334",
+  "name": "UK Inspire Travel",
+  "brand": "Inspire Travel",
+  "country": "GB",
+  "categories": [
+   "13.55"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2338",
+  "name": "UK JoJo Maman Bébé",
+  "brand": "JoJo Maman Bébé",
+  "country": "GB",
+  "categories": [
+   "13.19"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2340",
+  "name": "UK Just Eat",
+  "brand": "Just Eat",
+  "country": "GB",
+  "categories": [
+   "13.25"
+  ],
+  "file": "giftcards/sochitel/2340-just-eat.png",
+  "sourceBrand": "Just Eat"
+ },
+ {
+  "operatorId": "2348",
+  "name": "UK Las Iguanas",
+  "brand": "Las Iguanas",
+  "country": "GB",
+  "categories": [
+   "13.9"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2350",
+  "name": "UK London Theatre Direct",
+  "brand": "",
+  "country": "GB",
+  "categories": [
+   "13.13"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2354",
+  "name": "UK Marks and Spencer",
+  "brand": "Marks & Spencer",
+  "country": "GB",
+  "categories": [
+   "13.5"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2356",
+  "name": "UK Matalan",
+  "brand": "Matalan",
+  "country": "GB",
+  "categories": [
+   "13.24"
+  ],
+  "file": "giftcards/sochitel/2356-matalan.png",
+  "sourceBrand": "Matalan"
+ },
+ {
+  "operatorId": "2362",
+  "name": "UK Naked Wines",
+  "brand": "Naked Wines",
+  "country": "GB",
+  "categories": [
+   "13.9"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2366",
+  "name": "UK National Book Tokens",
+  "brand": "National Book Tokens",
+  "country": "GB",
+  "categories": [
+   "13.2"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2370",
+  "name": "UK National Garden Gift Voucher",
+  "brand": "National Garden Gift Card",
+  "country": "GB",
+  "categories": [
+   "12.0"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2374",
+  "name": "UK Nicholsons",
+  "brand": "Nicholsons (UK)",
+  "country": "GB",
+  "categories": [
+   "13.25",
+   "13.9"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2376",
+  "name": "UK Nike",
+  "brand": "Nike",
+  "country": "GB",
+  "categories": [
+   "13.15"
+  ],
+  "file": "giftcards/sochitel/2376-nike.png",
+  "sourceBrand": "Nike"
+ },
+ {
+  "operatorId": "2384",
+  "name": "UK Prezzo",
+  "brand": "Prezzo",
+  "country": "GB",
+  "categories": [
+   "13.45"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2390",
+  "name": "UK O'Neill's",
+  "brand": "O'Neill's",
+  "country": "GB",
+  "categories": [
+   "13.9"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2392",
+  "name": "UK Odeon",
+  "brand": "Odeon",
+  "country": "GB",
+  "categories": [
+   "13.13"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2394",
+  "name": "UK Pizza Express",
+  "brand": "Pizza Express",
+  "country": "GB",
+  "categories": [
+   "13.9"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2400",
+  "name": "UK Paul Smith",
+  "brand": "Paul Smith (UK)",
+  "country": "GB",
+  "categories": [
+   "13.24"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2404",
+  "name": "USA Roblox - Digital",
+  "brand": "Roblox",
+  "country": "US",
+  "categories": [
+   "13.26"
+  ],
+  "file": "giftcards/sochitel/2404-roblox.png",
+  "sourceBrand": "Roblox"
+ },
+ {
+  "operatorId": "2406",
+  "name": "South Africa Sochitel Blu Voucher",
+  "brand": "Blu Voucher",
+  "country": "ZA",
+  "categories": [
+   "13.0"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2410",
+  "name": "USA Ace Hardware",
+  "brand": "Ace Hardware",
+  "country": "US",
+  "categories": [
+   "13.47"
+  ],
+  "file": "giftcards/sochitel/2410-ace-hardware.png",
+  "sourceBrand": "Ace Hardware"
+ },
+ {
+  "operatorId": "2416",
+  "name": "USA Blaze Pizza",
+  "brand": "Blaze Pizza",
+  "country": "US",
+  "categories": [
+   "13.9"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2418",
+  "name": "USA Bloomin' Brands",
+  "brand": "Bloomin Brands",
+  "country": "US",
+  "categories": [
+   "13.9"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2420",
+  "name": "USA Brinker",
+  "brand": "Brinker",
+  "country": "US",
+  "categories": [
+   "13.9"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2422",
+  "name": "USA Build-A-Bear Workshop",
+  "brand": "Build A Bear Workshop",
+  "country": "US",
+  "categories": [
+   "13.19"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2424",
+  "name": "USA Charity Choice",
+  "brand": "Charity Choice",
+  "country": "US",
+  "categories": [
+   "13.21"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2428",
+  "name": "USA Cinemark",
+  "brand": "Cinemark",
+  "country": "US",
+  "categories": [
+   "13.13"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2432",
+  "name": "USA Cost Plus World Market",
+  "brand": "Cost Plus World Market",
+  "country": "US",
+  "categories": [
+   "13.29"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2436",
+  "name": "USA Darden Restaurants",
+  "brand": "Darden  Restuarants",
+  "country": "US",
+  "categories": [
+   "13.9"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2438",
+  "name": "USA Dave & Buster's",
+  "brand": "Dave & Buster's",
+  "country": "US",
+  "categories": [
+   "13.9"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2440",
+  "name": "USA Dick's Sporting Goods",
+  "brand": "Dick's Sporting Goods",
+  "country": "US",
+  "categories": [
+   "13.15"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2442",
+  "name": "USA Famous Dave's",
+  "brand": "Famous Dave",
+  "country": "US",
+  "categories": [
+   "13.9"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2446",
+  "name": "USA Gander Outdoors",
+  "brand": "Gander Outdoors",
+  "country": "US",
+  "categories": [
+   "13.15"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2450",
+  "name": "USA hard Rock Cafe",
+  "brand": "Hard Rock Cafe",
+  "country": "US",
+  "categories": [
+   "13.9"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2452",
+  "name": "USA Jersey Mike's",
+  "brand": "Jersey Mike's",
+  "country": "US",
+  "categories": [
+   "13.9"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2456",
+  "name": "USA Lane Bryant",
+  "brand": "Lane Bryant",
+  "country": "US",
+  "categories": [
+   "13.3"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2458",
+  "name": "USA LOFT",
+  "brand": "Loft",
+  "country": "US",
+  "categories": [
+   "13.3"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2460",
+  "name": "USA Logan's Roadhouse",
+  "brand": "Logan's Roadhouse",
+  "country": "US",
+  "categories": [
+   "13.9"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2462",
+  "name": "USA Maurices",
+  "brand": "maurices",
+  "country": "US",
+  "categories": [
+   "13.3"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2464",
+  "name": "USA MLB Shop",
+  "brand": "MLB Shop.com",
+  "country": "US",
+  "categories": [
+   "13.3"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2468",
+  "name": "USA Nautica",
+  "brand": "Nautica",
+  "country": "US",
+  "categories": [
+   "13.3"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2480",
+  "name": "UK Cranfield University",
+  "brand": "Cranfield University",
+  "country": "GB",
+  "categories": [
+   "13.22"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2482",
+  "name": "Liberia SNS Africa",
+  "brand": "SNS Africa",
+  "country": "LR",
+  "categories": [
+   "13.0"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2514",
+  "name": "USA EA Play",
+  "brand": "EA",
+  "country": "US",
+  "categories": [
+   "13.26"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2520",
+  "name": "Ghana Melcom",
+  "brand": "Melcom",
+  "country": "GH",
+  "categories": [
+   "13.47"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2528",
+  "name": "South Africa Netflorist",
+  "brand": "Netflorist",
+  "country": "ZA",
+  "categories": [
+   "13.0"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2534",
+  "name": "South Africa Shoprite",
+  "brand": "Shoprite",
+  "country": "ZA",
+  "categories": [
+   "13.49"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2536",
+  "name": "Guatemala PUBG",
+  "brand": "PUBG Mobile UC",
+  "country": "GT",
+  "categories": [
+   "13.26"
+  ],
+  "file": "giftcards/sochitel/2536-pubg-mobile-uc.png",
+  "sourceBrand": "PUBG"
+ },
+ {
+  "operatorId": "2538",
+  "name": "Colombia FreeFire",
+  "brand": "Freefire",
+  "country": "CO",
+  "categories": [
+   "13.26"
+  ],
+  "file": "giftcards/sochitel/2538-freefire.png",
+  "sourceBrand": "Free Fire"
+ },
+ {
+  "operatorId": "2540",
+  "name": "Guatemala FreeFire",
+  "brand": "Freefire",
+  "country": "GT",
+  "categories": [
+   "13.26"
+  ],
+  "file": "giftcards/sochitel/2540-freefire.png",
+  "sourceBrand": "Free Fire"
+ },
+ {
+  "operatorId": "2542",
+  "name": "Mexico FreeFire",
+  "brand": "Freefire",
+  "country": "MX",
+  "categories": [
+   "13.26"
+  ],
+  "file": "giftcards/sochitel/2542-freefire.png",
+  "sourceBrand": "Free Fire"
+ },
+ {
+  "operatorId": "2544",
+  "name": "El Salvador FreeFire",
+  "brand": "Freefire",
+  "country": "SV",
+  "categories": [
+   "13.26"
+  ],
+  "file": "giftcards/sochitel/2544-freefire.png",
+  "sourceBrand": "Free Fire"
+ },
+ {
+  "operatorId": "2546",
+  "name": "Brazil FreeFire",
+  "brand": "Freefire",
+  "country": "BR",
+  "categories": [
+   "13.0"
+  ],
+  "file": "giftcards/sochitel/2546-freefire.png",
+  "sourceBrand": "Free Fire"
+ },
+ {
+  "operatorId": "2558",
+  "name": "Colombia Mobile Legends",
+  "brand": "Mobile Legends (Razer Gold)",
+  "country": "CO",
+  "categories": [
+   "13.0"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2560",
+  "name": "Guatemala Mobile Legends",
+  "brand": "Mobile Legends (Razer Gold)",
+  "country": "GT",
+  "categories": [
+   "13.0"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2562",
+  "name": "Mexico Mobile Legends",
+  "brand": "Mobile Legends (Razer Gold)",
+  "country": "MX",
+  "categories": [
+   "13.26"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2564",
+  "name": "El Salvador Mobile Legends",
+  "brand": "Mobile Legends (Razer Gold)",
+  "country": "SV",
+  "categories": [
+   "13.0"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2568",
+  "name": "Colombia NetDragon",
+  "brand": "NetDragon Universal",
+  "country": "CO",
+  "categories": [
+   "13.0"
+  ],
+  "file": "giftcards/sochitel/2568-netdragon-universal.png",
+  "sourceBrand": "NetDragon Universal"
+ },
+ {
+  "operatorId": "2570",
+  "name": "Guatemala NetDragon",
+  "brand": "NetDragon Universal",
+  "country": "GT",
+  "categories": [
+   "13.0"
+  ],
+  "file": "giftcards/sochitel/2570-netdragon-universal.png",
+  "sourceBrand": "NetDragon Universal"
+ },
+ {
+  "operatorId": "2572",
+  "name": "Mexico NetDragon",
+  "brand": "NetDragon Universal",
+  "country": "MX",
+  "categories": [
+   "13.26"
+  ],
+  "file": "giftcards/sochitel/2572-netdragon-universal.png",
+  "sourceBrand": "NetDragon Universal"
+ },
+ {
+  "operatorId": "2578",
+  "name": "Colombia PUBG",
+  "brand": "PUBG Mobile UC",
+  "country": "CO",
+  "categories": [
+   "13.26"
+  ],
+  "file": "giftcards/sochitel/2578-pubg-mobile-uc.png",
+  "sourceBrand": "PUBG"
+ },
+ {
+  "operatorId": "2582",
+  "name": "El Salvador PUBG",
+  "brand": "PUBG Mobile UC",
+  "country": "SV",
+  "categories": [
+   "13.0"
+  ],
+  "file": "giftcards/sochitel/2582-pubg-mobile-uc.png",
+  "sourceBrand": "PUBG"
+ },
+ {
+  "operatorId": "2586",
+  "name": "Colombia PUBG New State",
+  "brand": "PUBG Mobile UC",
+  "country": "CO",
+  "categories": [
+   "13.26"
+  ],
+  "file": "giftcards/sochitel/2586-pubg-mobile-uc.png",
+  "sourceBrand": "PUBG"
+ },
+ {
+  "operatorId": "2588",
+  "name": "Guatemala PUBG New State",
+  "brand": "PUBG Mobile UC",
+  "country": "GT",
+  "categories": [
+   "13.26"
+  ],
+  "file": "giftcards/sochitel/2588-pubg-mobile-uc.png",
+  "sourceBrand": "PUBG"
+ },
+ {
+  "operatorId": "2590",
+  "name": "Mexico PUBG New State",
+  "brand": "PUBG Mobile UC",
+  "country": "MX",
+  "categories": [
+   "13.26"
+  ],
+  "file": "giftcards/sochitel/2590-pubg-mobile-uc.png",
+  "sourceBrand": "PUBG"
+ },
+ {
+  "operatorId": "2592",
+  "name": "El Salvador PUBG New State",
+  "brand": "PUBG Mobile UC",
+  "country": "SV",
+  "categories": [
+   "13.0"
+  ],
+  "file": "giftcards/sochitel/2592-pubg-mobile-uc.png",
+  "sourceBrand": "PUBG"
+ },
+ {
+  "operatorId": "2596",
+  "name": "Colombia Razer",
+  "brand": "Razer Gold",
+  "country": "CO",
+  "categories": [
+   "13.26"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2598",
+  "name": "Guatemala Razer",
+  "brand": "Razer Gold",
+  "country": "GT",
+  "categories": [
+   "13.7"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2600",
+  "name": "Mexico Razer",
+  "brand": "Razer Gold",
+  "country": "MX",
+  "categories": [
+   "13.26"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2602",
+  "name": "El Salvador Razer",
+  "brand": "Razer Gold",
+  "country": "SV",
+  "categories": [
+   "13.0"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2640",
+  "name": "Nigeria WAEC",
+  "brand": "WAEC",
+  "country": "NG",
+  "categories": [
+   "13.22"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2643",
+  "name": "Nigeria Grand Square",
+  "brand": "Grand Square",
+  "country": "NG",
+  "categories": [
+   "13.49"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2645",
+  "name": "USA Xbox Game Pass Ultimate",
+  "brand": "Xbox",
+  "country": "US",
+  "categories": [
+   "13.7"
+  ],
+  "file": "giftcards/sochitel/2645-xbox.png",
+  "sourceBrand": "Xbox"
+ },
+ {
+  "operatorId": "2646",
+  "name": "USA Xbox Game Pass Core",
+  "brand": "Xbox",
+  "country": "US",
+  "categories": [
+   "13.26"
+  ],
+  "file": "giftcards/sochitel/2646-xbox.png",
+  "sourceBrand": "Xbox"
+ },
+ {
+  "operatorId": "2647",
+  "name": "Nigeria Alexia Horsfall",
+  "brand": "Alexia Horsfall",
+  "country": "NG",
+  "categories": [
+   "13.39"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2648",
+  "name": "Nigeria Alpha Prime Groceries",
+  "brand": "Alpha Prime Groceries",
+  "country": "NG",
+  "categories": [
+   "13.27"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2649",
+  "name": "Nigeria Avion Travel and Tours",
+  "brand": "Avion Travels And Tours",
+  "country": "NG",
+  "categories": [
+   "13.55"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2650",
+  "name": "Nigeria CJ Best Deal Electr.",
+  "brand": "CJ Best Deal Electr.",
+  "country": "NG",
+  "categories": [
+   "13.23"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2651",
+  "name": "Nigeria 1st Mobile Dental Care",
+  "brand": "1st Mobile Dental Care",
+  "country": "NG",
+  "categories": [
+   "13.28"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2652",
+  "name": "Nigeria FunQuest Innovation",
+  "brand": "FunQuest Innovation",
+  "country": "NG",
+  "categories": [
+   "13.22"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2653",
+  "name": "Nigeria Just Journal",
+  "brand": "Just Journal",
+  "country": "NG",
+  "categories": [
+   "13.2"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2654",
+  "name": "Nigeria Krispy Kreme",
+  "brand": "Krispy Kreme",
+  "country": "NG",
+  "categories": [
+   "13.9"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2655",
+  "name": "Nigeria Prince Ebeano",
+  "brand": "Prince Ebeano",
+  "country": "NG",
+  "categories": [
+   "13.49"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2656",
+  "name": "Nigeria Simba Den",
+  "brand": "Simba Den",
+  "country": "NG",
+  "categories": [
+   "13.23"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2657",
+  "name": "Nigeria SLOT",
+  "brand": "SLOT",
+  "country": "NG",
+  "categories": [
+   "13.23"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2658",
+  "name": "Nigeria Ace Beauty Bar",
+  "brand": "Ace Beauty Bar",
+  "country": "NG",
+  "categories": [
+   "13.39"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2659",
+  "name": "Nigeria TruMart Supermarket",
+  "brand": "TruMart Supermarket",
+  "country": "NG",
+  "categories": [
+   "13.49"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2660",
+  "name": "Nigeria Unwind by Oriki",
+  "brand": "Oriki",
+  "country": "NG",
+  "categories": [
+   "13.1"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2661",
+  "name": "Ghana Jumia",
+  "brand": "JUMIA",
+  "country": "GH",
+  "categories": [
+   "13.6"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2711",
+  "name": "USA Best Buy",
+  "brand": "Best Buy",
+  "country": "US",
+  "categories": [
+   "13.42"
+  ],
+  "file": "giftcards/sochitel/2711-best-buy.png",
+  "sourceBrand": "Best Buy"
+ },
+ {
+  "operatorId": "2737",
+  "name": "UAE Shein",
+  "brand": "SHEIN",
+  "country": "AE",
+  "categories": [
+   "13.24"
+  ],
+  "file": "giftcards/sochitel/2737-shein.png",
+  "sourceBrand": "SHEIN"
+ },
+ {
+  "operatorId": "2738",
+  "name": "Ivory Coast Jumia",
+  "brand": "JUMIA",
+  "country": "CI",
+  "categories": [
+   "13.6"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2760",
+  "name": "South Africa Sorbet Digital Gift e-Voucher",
+  "brand": "Sorbet",
+  "country": "ZA",
+  "categories": [
+   "13.0",
+   "12.0"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2761",
+  "name": "South Africa Makro Gift Voucher",
+  "brand": "Makro Gift Voucher",
+  "country": "ZA",
+  "categories": [
+   "13.0"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2763",
+  "name": "South Africa The Cycle Lab Gift Card",
+  "brand": "The Cycle Lab Gift Card",
+  "country": "ZA",
+  "categories": [
+   "13.18"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2764",
+  "name": "South Africa Roblox",
+  "brand": "Roblox",
+  "country": "ZA",
+  "categories": [
+   "13.26"
+  ],
+  "file": "giftcards/sochitel/2764-roblox.png",
+  "sourceBrand": "Roblox"
+ },
+ {
+  "operatorId": "2765",
+  "name": "South Africa PUBG Mobile UC",
+  "brand": "PUBG Mobile UC",
+  "country": "ZA",
+  "categories": [
+   "13.26"
+  ],
+  "file": "giftcards/sochitel/2765-pubg-mobile-uc.png",
+  "sourceBrand": "PUBG"
+ },
+ {
+  "operatorId": "2766",
+  "name": "South Africa Norton Security",
+  "brand": "Norton Security",
+  "country": "ZA",
+  "categories": [
+   "13.36"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2789",
+  "name": "USA IKEA",
+  "brand": "IKEA",
+  "country": "US",
+  "categories": [
+   "13.11"
+  ],
+  "file": "giftcards/sochitel/2789-ikea.png",
+  "sourceBrand": "IKEA"
+ },
+ {
+  "operatorId": "2797",
+  "name": "UK Rituals",
+  "brand": "Rituals Portugal",
+  "country": "GB",
+  "categories": [
+   "13.1"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2798",
+  "name": "UK Nintendo",
+  "brand": "Nintendo",
+  "country": "GB",
+  "categories": [
+   "13.26",
+   "13.7"
+  ],
+  "file": "giftcards/sochitel/2798-nintendo.png",
+  "sourceBrand": "Nintendo"
+ },
+ {
+  "operatorId": "2799",
+  "name": "UK Roblox",
+  "brand": "Roblox",
+  "country": "GB",
+  "categories": [
+   "13.26"
+  ],
+  "file": "giftcards/sochitel/2799-roblox.png",
+  "sourceBrand": "Roblox"
+ },
+ {
+  "operatorId": "2800",
+  "name": "UK The Little Starts",
+  "brand": "The Little Starts (UK)",
+  "country": "GB",
+  "categories": [
+   "13.12"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2801",
+  "name": "UK  Magazine",
+  "brand": "Magazine",
+  "country": "GB",
+  "categories": [
+   "13.2"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2802",
+  "name": "UK Zizzi",
+  "brand": "Zizzi",
+  "country": "GB",
+  "categories": [
+   "13.41"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2803",
+  "name": "UK JD Sports",
+  "brand": "JD Sports (UK)",
+  "country": "GB",
+  "categories": [
+   "13.24"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2804",
+  "name": "UK TUI eGift Card",
+  "brand": "TUI eGift Card (UK)",
+  "country": "GB",
+  "categories": [
+   "13.55"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2805",
+  "name": "UK Tobi Carvery",
+  "brand": "Tobi Carvery (UK)",
+  "country": "GB",
+  "categories": [
+   "13.9"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2809",
+  "name": "UK Lush",
+  "brand": "Lush",
+  "country": "GB",
+  "categories": [
+   "13.4"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2810",
+  "name": "UK Dining Out",
+  "brand": "Dining Out",
+  "country": "GB",
+  "categories": [
+   "13.41"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2812",
+  "name": "UK Bucketlist",
+  "brand": "Bucketlist",
+  "country": "GB",
+  "categories": [
+   "13.55"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2815",
+  "name": "UK Treatwell",
+  "brand": "Treatwell (UK)",
+  "country": "GB",
+  "categories": [
+   "13.52"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2816",
+  "name": "UK Urban",
+  "brand": "Urban",
+  "country": "GB",
+  "categories": [
+   "13.3"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2819",
+  "name": "UK Candy Crush",
+  "brand": "Candy Crush",
+  "country": "GB",
+  "categories": [
+   "13.26"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2820",
+  "name": "UK Boots",
+  "brand": "Boots",
+  "country": "GB",
+  "categories": [
+   "13.46"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2830",
+  "name": "Canada Visa* Prepaid eReward Card",
+  "brand": "VISA",
+  "country": "CA",
+  "categories": [
+   "13.6"
+  ],
+  "file": null,
+  "sourceBrand": null
+ },
+ {
+  "operatorId": "2833",
+  "name": "USA Hulu",
+  "brand": "Hulu",
+  "country": "US",
+  "categories": [
+   "13.37"
+  ],
+  "file": null,
+  "sourceBrand": null
+ }
+]

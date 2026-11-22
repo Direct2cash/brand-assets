@@ -32,6 +32,7 @@ export const normalizeName = (value) => {
     .toLowerCase()
     .replace(/\(.*?\)/g, " ")
     .replace(/&/g, " and ")
+    .replace(/['’]/g, "")
     .replace(/[^a-z0-9]+/g, " ")
     .trim()
     .split(/\s+/)

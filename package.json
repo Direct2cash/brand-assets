@@ -9,7 +9,8 @@
     "index": "node scripts/build-index.mjs",
     "validate": "node scripts/validate.mjs",
     "check": "npm run index && npm run validate",
-    "giftcards": "node scripts/sync-giftcards.mjs"
+    "giftcards": "node scripts/sync-giftcards.mjs",
+    "giftcards:sochitel": "node scripts/sync-sochitel-giftcards.mjs"
   },
   "license": "UNLICENSED",
   "devDependencies": {
