@@ -10,6 +10,8 @@ const giftcards = read("giftcards/manifest.json");
 const giftcardLogoMap = read("giftcards/logo-map.json");
 const sochitelCards = read("giftcards/sochitel/manifest.json");
 const sochitelLogoMap = read("giftcards/sochitel/logo-map.json");
+const manualBrands = read("giftcards/manual/manifest.json");
+const manualBrandMap = read("giftcards/manual/brand-map.json");
 
 const index = {
   version: 1,
@@ -53,6 +55,12 @@ const index = {
       ])
   ),
   sochitelLogoMap,
+  manualBrandLogos: Object.fromEntries(
+    manualBrands
+      .filter((entry) => entry.file)
+      .map((entry) => [entry.brand, { path: entry.file, sourceFile: entry.sourceFile }])
+  ),
+  manualBrandMap,
 };
 
 await writeFile("index.json", `${JSON.stringify(index, null, 1)}\n`);

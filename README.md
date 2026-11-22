@@ -39,6 +39,9 @@ giftcards/logo-map.json        # { reloadlyLogoUrl: path } — runtime lookup ke
 giftcards/sochitel/<operatorId>-<brand>.png   # active provider (Sochitel ships no logos)
 giftcards/sochitel/manifest.json              # [{ operatorId, name, brand, country, file }]
 giftcards/sochitel/logo-map.json              # { operatorId: path } — runtime lookup key
+giftcards/manual/<brand>.png                  # hand-sourced brand logos (Wikimedia Commons)
+giftcards/manual/manifest.json                # [{ brand, file, sourceFile }]
+giftcards/manual/brand-map.json               # { normalisedBrand: path } — matcher fallback
 scripts/*.mjs           # sync + index + validation
 ```
 
@@ -95,7 +98,8 @@ Bank codes are NIP codes (`000014` Access, `000013` GTBank) — not CBN codes �
 - Bills: migrated from the existing Simfy Cloudinary account (`dnzzxtemp`).
 - Coins: [cryptocurrency-icons](https://github.com/spothq/cryptocurrency-icons) (MIT), CoinGecko for Conflux (CFX), Cloudinary fallback for fiat symbols.
 - Giftcards: pulled from the Reloadly catalog (`/products`, all 169 countries). 1,699 active products map to 226 unique logo files.
-- Sochitel giftcards: operators crawled from the Sochitel API (47 countries × 52 categories, 702 operators). 171 international brands matched to Reloadly art; local-only merchants have no artwork and fall back to the generic icon.
+- Sochitel giftcards: operators crawled from the Sochitel API (47 countries × 52 categories, 702 operators). 347 matched: 171 via Reloadly art, 176 via hand-sourced logos. 355 local-only merchants have no artwork and fall back to the generic icon.
+- Manual brand logos: curated from Wikimedia Commons (free/PD-textlogo files). Sources listed in `data/manual-brand-sources.json`; regenerate with `npm run brands:manual`.
 
 Bank, biller and coin marks are trademarks of their owners, included here solely to identify the corresponding institution or product in the app. No affiliation or endorsement is implied.
 

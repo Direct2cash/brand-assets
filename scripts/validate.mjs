@@ -14,6 +14,7 @@ const manifests = [
   { name: "coins", entries: read("coins/manifest.json"), key: "symbol" },
   { name: "giftcards", entries: read("giftcards/manifest.json"), key: "productId" },
   { name: "giftcards/sochitel", entries: read("giftcards/sochitel/manifest.json"), key: "operatorId" },
+  { name: "giftcards/manual", entries: read("giftcards/manual/manifest.json"), key: "brand" },
 ];
 
 const referenced = new Set();
@@ -48,7 +49,7 @@ const walk = (dir) =>
     return entry.isDirectory() ? walk(full) : [full];
   });
 
-for (const dir of ["banks/ng", "bills", "coins", "giftcards", "giftcards/sochitel"]) {
+for (const dir of ["banks/ng", "bills", "coins", "giftcards", "giftcards/sochitel", "giftcards/manual"]) {
   for (const file of walk(dir)) {
     if (file.endsWith(".png") && !referenced.has(file)) errors.push(`orphan file ${file}`);
   }
@@ -63,6 +64,9 @@ for (const [url, file] of Object.entries(index.giftcardLogoMap || {})) {
 }
 for (const [id, file] of Object.entries(index.sochitelLogoMap || {})) {
   if (!fs.existsSync(file)) errors.push(`index: sochitel ${id} -> ${file} missing`);
+}
+for (const [brand, entry] of Object.entries(index.manualBrandLogos || {})) {
+  if (!fs.existsSync(entry.path)) errors.push(`index: manual ${brand} -> ${entry.path} missing`);
 }
 
 if (errors.length) {

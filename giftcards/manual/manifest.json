@@ -1,0 +1,764 @@
+[
+ {
+  "brand": "ALDI",
+  "file": "giftcards/manual/aldi.png",
+  "sourceFile": "AldiNord-WorldwideLogo.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "AMC",
+  "file": "giftcards/manual/amc.png",
+  "sourceFile": "AMC Theatres logo (2).svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Advance Auto Parts",
+  "file": "giftcards/manual/advance-auto-parts.png",
+  "sourceFile": "Logo of Advance Auto Parts.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Allegro",
+  "file": "giftcards/manual/allegro.png",
+  "sourceFile": "Allegro.pl sklep.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "American Eagle Outfitters",
+  "file": "giftcards/manual/american-eagle-outfitters.png",
+  "sourceFile": "American Eagle Outfitters text logo.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Amtrak",
+  "file": "giftcards/manual/amtrak.png",
+  "sourceFile": "Amtrak logo.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Argos",
+  "file": "giftcards/manual/argos.png",
+  "sourceFile": "Argos logo.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "AutoZone",
+  "file": "giftcards/manual/autozone.png",
+  "sourceFile": "Logo of AutoZone.png",
+  "sourceUrl": null
+ },
+ {
+  "brand": "B&M",
+  "file": "giftcards/manual/b-and-m.png",
+  "sourceFile": "Logo AvecFond RVB.jpg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "B&Q",
+  "file": "giftcards/manual/b-and-q.png",
+  "sourceFile": "B&Q company logo.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "BOL.COM",
+  "file": "giftcards/manual/bol-com.png",
+  "sourceFile": "Bol.com 2019 logo.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Boomplay",
+  "file": "giftcards/manual/boomplay.png",
+  "sourceFile": "Boomplay Music Logo.png",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Boyner",
+  "file": "giftcards/manual/boyner.png",
+  "sourceFile": "Boyner Logo.jpg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Burger King",
+  "file": "giftcards/manual/burger-king.png",
+  "sourceFile": "Burger King 2020.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "CVS Pharmacy",
+  "file": "giftcards/manual/cvs-pharmacy.png",
+  "sourceFile": "CVS Logo 2016.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Carter's",
+  "file": "giftcards/manual/carter-s.png",
+  "sourceFile": "Carter's logo.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Cineplex",
+  "file": "giftcards/manual/cineplex.png",
+  "sourceFile": "Cineplex logo.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Cineworld",
+  "file": "giftcards/manual/cineworld.png",
+  "sourceFile": "CineworldGroupLogo.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Clarks",
+  "file": "giftcards/manual/clarks.png",
+  "sourceFile": "C & J Clarks International company logo.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Cost Plus World Market",
+  "file": "giftcards/manual/cost-plus-world-market.png",
+  "sourceFile": "World Market logo.png",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Cotton On",
+  "file": "giftcards/manual/cotton-on.png",
+  "sourceFile": "Cottonon group logo.png",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Crutchfield",
+  "file": "giftcards/manual/crutchfield.png",
+  "sourceFile": "Crutchfield-logo.png",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Cyberport",
+  "file": "giftcards/manual/cyberport.png",
+  "sourceFile": "Cyberport Logo.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Dave & Buster's",
+  "file": "giftcards/manual/dave-and-buster-s.png",
+  "sourceFile": "DaveAndBusters.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Deezer",
+  "file": "giftcards/manual/deezer.png",
+  "sourceFile": "Deezer logo, 2023.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Domino's",
+  "file": "giftcards/manual/domino-s.png",
+  "sourceFile": "Domino's 2025.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Doordash",
+  "file": "giftcards/manual/doordash.png",
+  "sourceFile": "DoorDash Logo.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Dunkin'",
+  "file": "giftcards/manual/dunkin.png",
+  "sourceFile": "Dunkin' logo.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Eurostar",
+  "file": "giftcards/manual/eurostar.png",
+  "sourceFile": "Eurostar logo (2023).svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Fanatics",
+  "file": "giftcards/manual/fanatics.png",
+  "sourceFile": "Fanatics inc blacklogo.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Fandango",
+  "file": "giftcards/manual/fandango.png",
+  "sourceFile": "Vudu 2014 logo with Fandango byline.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "FlixBus",
+  "file": "giftcards/manual/flixbus.png",
+  "sourceFile": "Flixbus 201x logo.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "GAP",
+  "file": "giftcards/manual/gap.png",
+  "sourceFile": "New Gap logo.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Galeries Lafayette",
+  "file": "giftcards/manual/galeries-lafayette.png",
+  "sourceFile": "Logo galeries lafayette.jpg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Gamma",
+  "file": "giftcards/manual/gamma.png",
+  "sourceFile": "Gamma logo 2010.png",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Grab",
+  "file": "giftcards/manual/grab.png",
+  "sourceFile": "Grab Logo.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "GrubHub",
+  "file": "giftcards/manual/grubhub.png",
+  "sourceFile": "GrubHub Logo 2016.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "H. Samuel",
+  "file": "giftcards/manual/h-samuel.png",
+  "sourceFile": "H.Samuel logo.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Halfords",
+  "file": "giftcards/manual/halfords.png",
+  "sourceFile": "Halfords Autocentre logo.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Hard Rock Cafe",
+  "file": "giftcards/manual/hard-rock-cafe.png",
+  "sourceFile": "Hard Rock Cafe Logo.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Harvey Nichols",
+  "file": "giftcards/manual/harvey-nichols.png",
+  "sourceFile": "HarveyNichols logo.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Hema",
+  "file": "giftcards/manual/hema.png",
+  "sourceFile": "HEMA Logo.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Homegoods",
+  "file": "giftcards/manual/homegoods.png",
+  "sourceFile": "Homegoods logo.png",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Homesense",
+  "file": "giftcards/manual/homesense.png",
+  "sourceFile": "HomeSense Logo.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Hotels.com",
+  "file": "giftcards/manual/hotels-com.png",
+  "sourceFile": "IT Hotels.com logo.jpg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Hulu",
+  "file": "giftcards/manual/hulu.png",
+  "sourceFile": "Hulu logo (2007).svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Hunkemoller",
+  "file": "giftcards/manual/hunkemoller.png",
+  "sourceFile": "Hunkemoeller Logo.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "IHOP",
+  "file": "giftcards/manual/ihop.png",
+  "sourceFile": "IHOP Restaurant logo.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Iceland",
+  "file": "giftcards/manual/iceland.png",
+  "sourceFile": "Iceland (supermarket) logo.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Instacart",
+  "file": "giftcards/manual/instacart.png",
+  "sourceFile": "Instacart logo and wordmark.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "JUMIA",
+  "file": "giftcards/manual/jumia.png",
+  "sourceFile": "Jumia Group-Logo.png",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Jersey Mike's",
+  "file": "giftcards/manual/jersey-mike-s.png",
+  "sourceFile": "Jersey Mike's logo.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "John Lewis",
+  "file": "giftcards/manual/john-lewis.png",
+  "sourceFile": "John Lewis Partnership logo.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "KFC",
+  "file": "giftcards/manual/kfc.png",
+  "sourceFile": "Kfc textlogo.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Krispy Kreme",
+  "file": "giftcards/manual/krispy-kreme.png",
+  "sourceFile": "Logo.KrispyKreme.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "LC Waikiki",
+  "file": "giftcards/manual/lc-waikiki.png",
+  "sourceFile": "LC Waikiki logo.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Lane Bryant",
+  "file": "giftcards/manual/lane-bryant.png",
+  "sourceFile": "Lane Bryant logo (2014-present).png",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Las Iguanas",
+  "file": "giftcards/manual/las-iguanas.png",
+  "sourceFile": "Las Iguanas logo.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Lastminute.com",
+  "file": "giftcards/manual/lastminute-com.png",
+  "sourceFile": "Logo lastminute;com.jpg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Logan's Roadhouse",
+  "file": "giftcards/manual/logan-s-roadhouse.png",
+  "sourceFile": "Logan's Roadhouse.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Marks & Spencer",
+  "file": "giftcards/manual/marks-and-spencer.png",
+  "sourceFile": "M&S logo.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Media Markt",
+  "file": "giftcards/manual/media-markt.png",
+  "sourceFile": "Media Markt logo.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Melcom",
+  "file": "giftcards/manual/melcom.png",
+  "sourceFile": "Melcom logo.jpg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Michaels",
+  "file": "giftcards/manual/michaels.png",
+  "sourceFile": "Michaels logo.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Microsoft",
+  "file": "giftcards/manual/microsoft.png",
+  "sourceFile": "Microsoft Store logo light.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Mobile Legends (Razer Gold)",
+  "file": "giftcards/manual/mobile-legends.png",
+  "sourceFile": "Mobile Legends Logo.webp",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Mondadori",
+  "file": "giftcards/manual/mondadori.png",
+  "sourceFile": "Mondadori group logo.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Morton's The Steakhouse",
+  "file": "giftcards/manual/morton-s-the-steakhouse.png",
+  "sourceFile": "Morton's The Steakhouse logo.jpg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "New Look",
+  "file": "giftcards/manual/new-look.png",
+  "sourceFile": "New Look logo 2012.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Norton Security",
+  "file": "giftcards/manual/norton-security.png",
+  "sourceFile": "Norton av logo.png",
+  "sourceUrl": null
+ },
+ {
+  "brand": "OBI",
+  "file": "giftcards/manual/obi.png",
+  "sourceFile": "OBI-Logo-2026.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Odeon",
+  "file": "giftcards/manual/odeon.png",
+  "sourceFile": "Odeon logo.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Old Navy",
+  "file": "giftcards/manual/old-navy.png",
+  "sourceFile": "Old Navy Logo.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "P.F. Chang's",
+  "file": "giftcards/manual/p-f-chang-s.png",
+  "sourceFile": "P F Chang's Logo.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Papa John's",
+  "file": "giftcards/manual/papa-john-s.png",
+  "sourceFile": "Papa John's Logo 2019.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Petco",
+  "file": "giftcards/manual/petco.png",
+  "sourceFile": "Petco Logo.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Petsmart",
+  "file": "giftcards/manual/petsmart.png",
+  "sourceFile": "PetSmart.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Pierre Cardin",
+  "file": "giftcards/manual/pierre-cardin.png",
+  "sourceFile": "Pierre cardin textlogo.png",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Pizza Express",
+  "file": "giftcards/manual/pizza-express.png",
+  "sourceFile": "PizzaExpress Logo.jpg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Primark",
+  "file": "giftcards/manual/primark.png",
+  "sourceFile": "Primark Stores Logo.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Q8",
+  "file": "giftcards/manual/q8.png",
+  "sourceFile": "Q8 logo.png",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Rituals Portugal",
+  "file": "giftcards/manual/rituals-portugal.png",
+  "sourceFile": "Rituals Cosmetics logo.png",
+  "sourceUrl": null
+ },
+ {
+  "brand": "River Island",
+  "file": "giftcards/manual/river-island.png",
+  "sourceFile": "River Island logo 2024.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Ruby Tuesday",
+  "file": "giftcards/manual/ruby-tuesday.png",
+  "sourceFile": "Rubytuesday.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Ruff 'n' Tumble",
+  "file": "giftcards/manual/ruff-n-tumble.png",
+  "sourceFile": "RNT-Logo2.png",
+  "sourceUrl": null
+ },
+ {
+  "brand": "SPAR Hypermarket",
+  "file": "giftcards/manual/spar-hypermarket.png",
+  "sourceFile": "Spar-logo.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Safeway",
+  "file": "giftcards/manual/safeway.png",
+  "sourceFile": "Safeway logo.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Sainsburys",
+  "file": "giftcards/manual/sainsburys.png",
+  "sourceFile": "Sainsbury's Logo.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Saks Fifth Avenue",
+  "file": "giftcards/manual/saks-fifth-avenue.png",
+  "sourceFile": "SaksFifthAvenueA.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Sam's Club",
+  "file": "giftcards/manual/sam-s-club.png",
+  "sourceFile": "Sam's Club 1994.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Samsung",
+  "file": "giftcards/manual/samsung.png",
+  "sourceFile": "Samsung wordmark.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "SaskTel",
+  "file": "giftcards/manual/sasktel.png",
+  "sourceFile": "SaskTel Logo.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Shell",
+  "file": "giftcards/manual/shell.png",
+  "sourceFile": "Shell wordmark 2019.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Shoprite",
+  "file": "giftcards/manual/shoprite.png",
+  "sourceFile": "Logo - Shoprite - SUPERMARCE.jpg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Shutterfly",
+  "file": "giftcards/manual/shutterfly.png",
+  "sourceFile": "Shutterfly, Inc. logo.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "SiriusXM",
+  "file": "giftcards/manual/siriusxm.png",
+  "sourceFile": "Sirius XM Radio Logo.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Sling TV",
+  "file": "giftcards/manual/sling-tv.png",
+  "sourceFile": "Sling TV logo.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Southwest Airlines",
+  "file": "giftcards/manual/southwest-airlines.png",
+  "sourceFile": "Southwest Airlines logo 2014.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Staples",
+  "file": "giftcards/manual/staples.png",
+  "sourceFile": "Staples 2019.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Steak 'n Shake",
+  "file": "giftcards/manual/steak-n-shake.png",
+  "sourceFile": "2011-06-21 Raleigh Steak-n-Shake at night.jpg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Steak 'n' Shake",
+  "file": "giftcards/manual/steak-n-shake.png",
+  "sourceFile": "Steak 'n Shake logo.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Superdry",
+  "file": "giftcards/manual/superdry.png",
+  "sourceFile": "Superdry Logo 2020.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "TGI Friday's",
+  "file": "giftcards/manual/tgi-friday-s.png",
+  "sourceFile": "Tgi fridays logo13.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "TJ Maxx",
+  "file": "giftcards/manual/tj-maxx.png",
+  "sourceFile": "TJ Maxx Logo.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "TJX",
+  "file": "giftcards/manual/tjx.png",
+  "sourceFile": "TJXLogo.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "TKMAXX",
+  "file": "giftcards/manual/tkmaxx.png",
+  "sourceFile": "TK Maxx Logo.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Target",
+  "file": "giftcards/manual/target.png",
+  "sourceFile": "Target Corporation logo.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Tchibo",
+  "file": "giftcards/manual/tchibo.png",
+  "sourceFile": "Tchibo Logo Kachel Ohne Schutzzone 2017.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "The Cheesecake Factory",
+  "file": "giftcards/manual/the-cheesecake-factory.png",
+  "sourceFile": "CheesecakeFactoryLogo1.png",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Ticketmaster",
+  "file": "giftcards/manual/ticketmaster.png",
+  "sourceFile": "TicketMaster wordmark.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Topgolf",
+  "file": "giftcards/manual/topgolf.png",
+  "sourceFile": "Topgolf logo.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Total Energies",
+  "file": "giftcards/manual/total-energies.png",
+  "sourceFile": "Total wordmark (2003-2021).svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Truffaut",
+  "file": "giftcards/manual/truffaut.png",
+  "sourceFile": "LOGO-TRUFFAUT-VERT-01.png",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Uber eats",
+  "file": "giftcards/manual/uber-eats.png",
+  "sourceFile": "Uber Eats 2020 logo.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "VISA",
+  "file": "giftcards/manual/visa.png",
+  "sourceFile": "Visa 2021.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "WHsmith",
+  "file": "giftcards/manual/whsmith.png",
+  "sourceFile": "WHSmith logo.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Wagamama",
+  "file": "giftcards/manual/wagamama.png",
+  "sourceFile": "Wagamama-Logo.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Waitrose",
+  "file": "giftcards/manual/waitrose.png",
+  "sourceFile": "Waitrose 1987 logo.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Wallmart",
+  "file": "giftcards/manual/wallmart.png",
+  "sourceFile": "Walmart logo.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Waterstones",
+  "file": "giftcards/manual/waterstones.png",
+  "sourceFile": "Waterstone's.png",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Williams Sonoma",
+  "file": "giftcards/manual/williams-sonoma.png",
+  "sourceFile": "Williams-Sonoma, Inc. logo.png",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Winners",
+  "file": "giftcards/manual/winners.png",
+  "sourceFile": "Winners logo.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Woolworths",
+  "file": "giftcards/manual/woolworths.png",
+  "sourceFile": "Woolworths Limited Logo.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "Zalora",
+  "file": "giftcards/manual/zalora.png",
+  "sourceFile": "Zalora Group logo.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "iTunes",
+  "file": "giftcards/manual/itunes.png",
+  "sourceFile": "ITunes Store logo.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "la Feltrinelli",
+  "file": "giftcards/manual/la-feltrinelli.png",
+  "sourceFile": "LaFeltrinelli logo.svg",
+  "sourceUrl": null
+ },
+ {
+  "brand": "west elm",
+  "file": "giftcards/manual/west-elm.png",
+  "sourceFile": "West Elm logo.svg",
+  "sourceUrl": null
+ }
+]

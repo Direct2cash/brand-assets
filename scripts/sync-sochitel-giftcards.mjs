@@ -13,6 +13,7 @@ const CACHE_DIR = ".cache/sochitel";
 const MANIFEST = "giftcards/sochitel/manifest.json";
 const LOGO_MAP = "giftcards/sochitel/logo-map.json";
 const RELOADLY_MANIFEST = "giftcards/manifest.json";
+const MANUAL_BRAND_MAP = "giftcards/manual/brand-map.json";
 
 // Sochitel brand names that differ from the Reloadly catalogue.
 const BRAND_ALIASES = {
@@ -173,6 +174,9 @@ const main = async () => {
   const reloadly = fs.existsSync(RELOADLY_MANIFEST)
     ? JSON.parse(fs.readFileSync(RELOADLY_MANIFEST, "utf8"))
     : [];
+  const manualBrands = fs.existsSync(MANUAL_BRAND_MAP)
+    ? JSON.parse(fs.readFileSync(MANUAL_BRAND_MAP, "utf8"))
+    : {};
 
   console.log(`crawling ${countries.length} countries x ${categories.length} categories`);
   const operators = await crawl(countries, categories);
@@ -187,13 +191,20 @@ const main = async () => {
 
   for (const operator of operators.sort((a, b) => Number(a.id) - Number(b.id))) {
     const product = matchBrand(operator, brandIndex, reloadly);
+    const rawBrand = (operator.brandName || operator.name || "").replace(
+      new RegExp(`^${operator.countryName}\\s+`, "i"),
+      ""
+    );
+    const manualFile = manualBrands[normalizeName(rawBrand)];
     let file = null;
+    let sourceBrand = null;
 
-    if (product) {
-      const target = `${OUT_DIR}/${operator.id}-${slugify(operator.brandName || operator.name)}.png`;
-      await copyFile(product.file, target);
+    if (product || manualFile) {
+      const target = `${OUT_DIR}/${operator.id}-${slugify(rawBrand)}.png`;
+      await copyFile(product ? product.file : manualFile, target);
       file = target;
       logoMap[operator.id] = target;
+      sourceBrand = product ? product.brand : rawBrand;
       matched += 1;
     }
 
@@ -204,7 +215,7 @@ const main = async () => {
       country: operator.country,
       categories: operator.categories,
       file,
-      sourceBrand: product?.brand || null,
+      sourceBrand,
     });
   }
 
