@@ -6,6 +6,8 @@ const read = (file) => JSON.parse(fs.readFileSync(file, "utf8"));
 const banks = read("banks/manifest.json");
 const bills = read("bills/manifest.json");
 const coins = read("coins/manifest.json");
+const giftcards = read("giftcards/manifest.json");
+const giftcardLogoMap = read("giftcards/logo-map.json");
 
 const index = {
   version: 1,
@@ -14,6 +16,7 @@ const index = {
     banks: "banks/ng",
     bills: "bills",
     coins: "coins",
+    giftcards: "giftcards",
   },
   banks: Object.fromEntries(
     banks
@@ -30,9 +33,18 @@ const index = {
       .filter((coin) => coin.file)
       .map((coin) => [coin.symbol.toLowerCase(), { name: coin.name, path: coin.file }])
   ),
+  giftcards: Object.fromEntries(
+    giftcards
+      .filter((card) => card.file)
+      .map((card) => [
+        card.productId,
+        { name: card.name, brand: card.brand, country: card.country, path: card.file },
+      ])
+  ),
+  giftcardLogoMap,
 };
 
 await writeFile("index.json", `${JSON.stringify(index, null, 1)}\n`);
 console.log(
-  `index.json: ${Object.keys(index.banks).length} banks, ${Object.keys(index.bills).length} bills, ${Object.keys(index.coins).length} coins`
+  `index.json: ${Object.keys(index.banks).length} banks, ${Object.keys(index.bills).length} bills, ${Object.keys(index.coins).length} coins, ${Object.keys(index.giftcards).length} giftcards`
 );

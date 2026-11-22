@@ -8,7 +8,8 @@
     "coins": "node scripts/sync-coins.mjs",
     "index": "node scripts/build-index.mjs",
     "validate": "node scripts/validate.mjs",
-    "check": "npm run index && npm run validate"
+    "check": "npm run index && npm run validate",
+    "giftcards": "node scripts/sync-giftcards.mjs"
   },
   "license": "UNLICENSED",
   "devDependencies": {
